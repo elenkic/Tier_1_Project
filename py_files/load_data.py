@@ -14,7 +14,7 @@ def load_tables():
         df_guidelines = pd.read_sql("SELECT * FROM guidelines", engine)
 
     finally:
-        # Always clean up the engine connections
+        # cleaning up the engine connections
         engine.dispose()
 
     return df_results, df_samples, df_guidelines
