@@ -1,0 +1,1437 @@
+parameter,soil_type,land_use,guideline_value,units,notes
+pH (in 0.01M CaCl2),Fine,Natural Area,6-8.5,mg/kg,1
+pH (in 0.01M CaCl2),Fine,Agricultural,6-8.5,mg/kg,1
+pH (in 0.01M CaCl2),Fine,Residential/Parkland,6-8.5,mg/kg,1
+pH (in 0.01M CaCl2),Fine,Commercial,6-8.5,mg/kg,1
+pH (in 0.01M CaCl2),Fine,Industrial,6-8.5,mg/kg,1
+pH (in 0.01M CaCl2),Coarse,Natural Area,6-8.5,mg/kg,1
+pH (in 0.01M CaCl2),Coarse,Agricultural,6-8.5,mg/kg,1
+pH (in 0.01M CaCl2),Coarse,Residential/Parkland,6-8.5,mg/kg,1
+pH (in 0.01M CaCl2),Coarse,Commercial,6-8.5,mg/kg,1
+pH (in 0.01M CaCl2),Coarse,Industrial,6-8.5,mg/kg,1
+Cyanide (free),Fine,Natural Area,0.9,mg/kg,2
+Cyanide (free),Fine,Agricultural,0.9,mg/kg,2
+Cyanide (free),Fine,Residential/Parkland,0.9,mg/kg,2
+Cyanide (free),Fine,Commercial,8,mg/kg,2
+Cyanide (free),Fine,Industrial,8,mg/kg,2
+Cyanide (free),Coarse,Natural Area,0.9,mg/kg,2
+Cyanide (free),Coarse,Agricultural,0.9,mg/kg,2
+Cyanide (free),Coarse,Residential/Parkland,0.9,mg/kg,2
+Cyanide (free),Coarse,Commercial,8,mg/kg,2
+Cyanide (free),Coarse,Industrial,8,mg/kg,2
+Fluoride,Fine,Natural Area,200,mg/kg,1
+Fluoride,Fine,Agricultural,200,mg/kg,1
+Fluoride,Fine,Residential/Parkland,200,mg/kg,1
+Fluoride,Fine,Commercial,2000,mg/kg,1
+Fluoride,Fine,Industrial,2000,mg/kg,1
+Fluoride,Coarse,Natural Area,200,mg/kg,1
+Fluoride,Coarse,Agricultural,200,mg/kg,1
+Fluoride,Coarse,Residential/Parkland,200,mg/kg,1
+Fluoride,Coarse,Commercial,2000,mg/kg,1
+Fluoride,Coarse,Industrial,2000,mg/kg,1
+Sulphur (elemental),Fine,Natural Area,500,mg/kg,3
+Sulphur (elemental),Fine,Agricultural,500,mg/kg,3
+Sulphur (elemental),Fine,Residential/Parkland,500,mg/kg,3
+Sulphur (elemental),Fine,Commercial,500,mg/kg,3
+Sulphur (elemental),Fine,Industrial,500,mg/kg,3
+Sulphur (elemental),Coarse,Natural Area,500,mg/kg,3
+Sulphur (elemental),Coarse,Agricultural,500,mg/kg,3
+Sulphur (elemental),Coarse,Residential/Parkland,500,mg/kg,3
+Sulphur (elemental),Coarse,Commercial,500,mg/kg,3
+Sulphur (elemental),Coarse,Industrial,500,mg/kg,3
+Antimony,Fine,Natural Area,20,mg/kg,1
+Antimony,Fine,Agricultural,20,mg/kg,1
+Antimony,Fine,Residential/Parkland,20,mg/kg,1
+Antimony,Fine,Commercial,40,mg/kg,1
+Antimony,Fine,Industrial,40,mg/kg,1
+Antimony,Coarse,Natural Area,20,mg/kg,1
+Antimony,Coarse,Agricultural,20,mg/kg,1
+Antimony,Coarse,Residential/Parkland,20,mg/kg,1
+Antimony,Coarse,Commercial,40,mg/kg,1
+Antimony,Coarse,Industrial,40,mg/kg,1
+Arsenic (inorganic),Fine,Natural Area,17,mg/kg,
+Arsenic (inorganic),Fine,Agricultural,17,mg/kg,
+Arsenic (inorganic),Fine,Residential/Parkland,17,mg/kg,
+Arsenic (inorganic),Fine,Commercial,26,mg/kg,
+Arsenic (inorganic),Fine,Industrial,26,mg/kg,
+Arsenic (inorganic),Coarse,Natural Area,17,mg/kg,
+Arsenic (inorganic),Coarse,Agricultural,17,mg/kg,
+Arsenic (inorganic),Coarse,Residential/Parkland,17,mg/kg,
+Arsenic (inorganic),Coarse,Commercial,26,mg/kg,
+Arsenic (inorganic),Coarse,Industrial,26,mg/kg,
+Barium (non-barite),Fine,Natural Area,750,mg/kg,2
+Barium (non-barite),Fine,Agricultural,750,mg/kg,2
+Barium (non-barite),Fine,Residential/Parkland,500,mg/kg,2
+Barium (non-barite),Fine,Commercial,2000,mg/kg,2
+Barium (non-barite),Fine,Industrial,2000,mg/kg,2
+Barium (non-barite),Coarse,Natural Area,750,mg/kg,2
+Barium (non-barite),Coarse,Agricultural,750,mg/kg,2
+Barium (non-barite),Coarse,Residential/Parkland,500,mg/kg,2
+Barium (non-barite),Coarse,Commercial,2000,mg/kg,2
+Barium (non-barite),Coarse,Industrial,2000,mg/kg,2
+Barite-barium,Fine,Natural Area,10000,mg/kg,4
+Barite-barium,Fine,Agricultural,10000,mg/kg,4
+Barite-barium,Fine,Residential/Parkland,10000,mg/kg,4
+Barite-barium,Fine,Commercial,15000,mg/kg,4
+Barite-barium,Fine,Industrial,140000,mg/kg,4
+Barite-barium,Coarse,Natural Area,10000,mg/kg,4
+Barite-barium,Coarse,Agricultural,10000,mg/kg,4
+Barite-barium,Coarse,Residential/Parkland,10000,mg/kg,4
+Barite-barium,Coarse,Commercial,15000,mg/kg,4
+Barite-barium,Coarse,Industrial,140000,mg/kg,4
+Beryllium,Fine,Natural Area,5,mg/kg,1
+Beryllium,Fine,Agricultural,5,mg/kg,1
+Beryllium,Fine,Residential/Parkland,5,mg/kg,1
+Beryllium,Fine,Commercial,8,mg/kg,1
+Beryllium,Fine,Industrial,8,mg/kg,1
+Beryllium,Coarse,Natural Area,5,mg/kg,1
+Beryllium,Coarse,Agricultural,5,mg/kg,1
+Beryllium,Coarse,Residential/Parkland,5,mg/kg,1
+Beryllium,Coarse,Commercial,8,mg/kg,1
+Beryllium,Coarse,Industrial,8,mg/kg,1
+Boron (mg/L in saturated paste extract),Fine,Natural Area,3.3,mg/kg,16
+Boron (mg/L in saturated paste extract),Fine,Agricultural,3.3,mg/kg,16
+Boron (mg/L in saturated paste extract),Fine,Residential/Parkland,3.3,mg/kg,16
+Boron (mg/L in saturated paste extract),Fine,Commercial,5.0,mg/kg,16
+Boron (mg/L in saturated paste extract),Fine,Industrial,5.0,mg/kg,16
+Boron (mg/L in saturated paste extract),Coarse,Natural Area,3.3,mg/kg,16
+Boron (mg/L in saturated paste extract),Coarse,Agricultural,3.3,mg/kg,16
+Boron (mg/L in saturated paste extract),Coarse,Residential/Parkland,3.3,mg/kg,16
+Boron (mg/L in saturated paste extract),Coarse,Commercial,5.0,mg/kg,16
+Boron (mg/L in saturated paste extract),Coarse,Industrial,5.0,mg/kg,16
+Cadmium,Fine,Natural Area,3.8,mg/kg,2
+Cadmium,Fine,Agricultural,1.4,mg/kg,2
+Cadmium,Fine,Residential/Parkland,10,mg/kg,2
+Cadmium,Fine,Commercial,22,mg/kg,2
+Cadmium,Fine,Industrial,22,mg/kg,2
+Cadmium,Coarse,Natural Area,3.8,mg/kg,2
+Cadmium,Coarse,Agricultural,1.4,mg/kg,2
+Cadmium,Coarse,Residential/Parkland,10,mg/kg,2
+Cadmium,Coarse,Commercial,22,mg/kg,2
+Cadmium,Coarse,Industrial,22,mg/kg,2
+Chromium (hexavalent),Fine,Natural Area,0.4,mg/kg,2
+Chromium (hexavalent),Fine,Agricultural,0.4,mg/kg,2
+Chromium (hexavalent),Fine,Residential/Parkland,0.4,mg/kg,2
+Chromium (hexavalent),Fine,Commercial,1.4,mg/kg,2
+Chromium (hexavalent),Fine,Industrial,1.4,mg/kg,2
+Chromium (hexavalent),Coarse,Natural Area,0.4,mg/kg,2
+Chromium (hexavalent),Coarse,Agricultural,0.4,mg/kg,2
+Chromium (hexavalent),Coarse,Residential/Parkland,0.4,mg/kg,2
+Chromium (hexavalent),Coarse,Commercial,1.4,mg/kg,2
+Chromium (hexavalent),Coarse,Industrial,1.4,mg/kg,2
+Chromium (total),Fine,Natural Area,64,mg/kg,2
+Chromium (total),Fine,Agricultural,64,mg/kg,2
+Chromium (total),Fine,Residential/Parkland,64,mg/kg,2
+Chromium (total),Fine,Commercial,87,mg/kg,2
+Chromium (total),Fine,Industrial,87,mg/kg,2
+Chromium (total),Coarse,Natural Area,64,mg/kg,2
+Chromium (total),Coarse,Agricultural,64,mg/kg,2
+Chromium (total),Coarse,Residential/Parkland,64,mg/kg,2
+Chromium (total),Coarse,Commercial,87,mg/kg,2
+Chromium (total),Coarse,Industrial,87,mg/kg,2
+Cobalt,Fine,Natural Area,20,mg/kg,1
+Cobalt,Fine,Agricultural,20,mg/kg,1
+Cobalt,Fine,Residential/Parkland,20,mg/kg,1
+Cobalt,Fine,Commercial,300,mg/kg,1
+Cobalt,Fine,Industrial,300,mg/kg,1
+Cobalt,Coarse,Natural Area,20,mg/kg,1
+Cobalt,Coarse,Agricultural,20,mg/kg,1
+Cobalt,Coarse,Residential/Parkland,20,mg/kg,1
+Cobalt,Coarse,Commercial,300,mg/kg,1
+Cobalt,Coarse,Industrial,300,mg/kg,1
+Copper,Fine,Natural Area,63,mg/kg,2
+Copper,Fine,Agricultural,63,mg/kg,2
+Copper,Fine,Residential/Parkland,63,mg/kg,2
+Copper,Fine,Commercial,91,mg/kg,2
+Copper,Fine,Industrial,91,mg/kg,2
+Copper,Coarse,Natural Area,63,mg/kg,2
+Copper,Coarse,Agricultural,63,mg/kg,2
+Copper,Coarse,Residential/Parkland,63,mg/kg,2
+Copper,Coarse,Commercial,91,mg/kg,2
+Copper,Coarse,Industrial,91,mg/kg,2
+Lead,Fine,Natural Area,70,mg/kg,2
+Lead,Fine,Agricultural,70,mg/kg,2
+Lead,Fine,Residential/Parkland,140,mg/kg,2
+Lead,Fine,Commercial,260,mg/kg,2
+Lead,Fine,Industrial,600,mg/kg,2
+Lead,Coarse,Natural Area,70,mg/kg,2
+Lead,Coarse,Agricultural,70,mg/kg,2
+Lead,Coarse,Residential/Parkland,140,mg/kg,2
+Lead,Coarse,Commercial,260,mg/kg,2
+Lead,Coarse,Industrial,600,mg/kg,2
+Mercury (inorganic),Fine,Natural Area,12,mg/kg,2
+Mercury (inorganic),Fine,Agricultural,6.6,mg/kg,2
+Mercury (inorganic),Fine,Residential/Parkland,6.6,mg/kg,2
+Mercury (inorganic),Fine,Commercial,24,mg/kg,2
+Mercury (inorganic),Fine,Industrial,50,mg/kg,2
+Mercury (inorganic),Coarse,Natural Area,12,mg/kg,2
+Mercury (inorganic),Coarse,Agricultural,6.6,mg/kg,2
+Mercury (inorganic),Coarse,Residential/Parkland,6.6,mg/kg,2
+Mercury (inorganic),Coarse,Commercial,24,mg/kg,2
+Mercury (inorganic),Coarse,Industrial,50,mg/kg,2
+Molybdenum,Fine,Natural Area,4,mg/kg,1
+Molybdenum,Fine,Agricultural,4,mg/kg,1
+Molybdenum,Fine,Residential/Parkland,4,mg/kg,1
+Molybdenum,Fine,Commercial,40,mg/kg,1
+Molybdenum,Fine,Industrial,40,mg/kg,1
+Molybdenum,Coarse,Natural Area,4,mg/kg,1
+Molybdenum,Coarse,Agricultural,4,mg/kg,1
+Molybdenum,Coarse,Residential/Parkland,4,mg/kg,1
+Molybdenum,Coarse,Commercial,40,mg/kg,1
+Molybdenum,Coarse,Industrial,40,mg/kg,1
+Nickel,Fine,Natural Area,45,mg/kg,2
+Nickel,Fine,Agricultural,45,mg/kg,2
+Nickel,Fine,Residential/Parkland,45,mg/kg,2
+Nickel,Fine,Commercial,89,mg/kg,2
+Nickel,Fine,Industrial,89,mg/kg,2
+Nickel,Coarse,Natural Area,45,mg/kg,2
+Nickel,Coarse,Agricultural,45,mg/kg,2
+Nickel,Coarse,Residential/Parkland,45,mg/kg,2
+Nickel,Coarse,Commercial,89,mg/kg,2
+Nickel,Coarse,Industrial,89,mg/kg,2
+Selenium,Fine,Natural Area,1,mg/kg,2
+Selenium,Fine,Agricultural,1,mg/kg,2
+Selenium,Fine,Residential/Parkland,1,mg/kg,2
+Selenium,Fine,Commercial,2.9,mg/kg,2
+Selenium,Fine,Industrial,2.9,mg/kg,2
+Selenium,Coarse,Natural Area,1,mg/kg,2
+Selenium,Coarse,Agricultural,1,mg/kg,2
+Selenium,Coarse,Residential/Parkland,1,mg/kg,2
+Selenium,Coarse,Commercial,2.9,mg/kg,2
+Selenium,Coarse,Industrial,2.9,mg/kg,2
+Silver,Fine,Natural Area,20,mg/kg,1
+Silver,Fine,Agricultural,20,mg/kg,1
+Silver,Fine,Residential/Parkland,20,mg/kg,1
+Silver,Fine,Commercial,40,mg/kg,1
+Silver,Fine,Industrial,40,mg/kg,1
+Silver,Coarse,Natural Area,20,mg/kg,1
+Silver,Coarse,Agricultural,20,mg/kg,1
+Silver,Coarse,Residential/Parkland,20,mg/kg,1
+Silver,Coarse,Commercial,40,mg/kg,1
+Silver,Coarse,Industrial,40,mg/kg,1
+Thallium,Fine,Natural Area,1,mg/kg,2
+Thallium,Fine,Agricultural,1,mg/kg,2
+Thallium,Fine,Residential/Parkland,1,mg/kg,2
+Thallium,Fine,Commercial,1,mg/kg,2
+Thallium,Fine,Industrial,1,mg/kg,2
+Thallium,Coarse,Natural Area,1,mg/kg,2
+Thallium,Coarse,Agricultural,1,mg/kg,2
+Thallium,Coarse,Residential/Parkland,1,mg/kg,2
+Thallium,Coarse,Commercial,1,mg/kg,2
+Thallium,Coarse,Industrial,1,mg/kg,2
+Tin,Fine,Natural Area,5,mg/kg,1
+Tin,Fine,Agricultural,5,mg/kg,1
+Tin,Fine,Residential/Parkland,5,mg/kg,1
+Tin,Fine,Commercial,300,mg/kg,1
+Tin,Fine,Industrial,300,mg/kg,1
+Tin,Coarse,Natural Area,5,mg/kg,1
+Tin,Coarse,Agricultural,5,mg/kg,1
+Tin,Coarse,Residential/Parkland,5,mg/kg,1
+Tin,Coarse,Commercial,300,mg/kg,1
+Tin,Coarse,Industrial,300,mg/kg,1
+Uranium,Fine,Natural Area,33,mg/kg,
+Uranium,Fine,Agricultural,23,mg/kg,
+Uranium,Fine,Residential/Parkland,23,mg/kg,
+Uranium,Fine,Commercial,33,mg/kg,
+Uranium,Fine,Industrial,300,mg/kg,
+Uranium,Coarse,Natural Area,33,mg/kg,
+Uranium,Coarse,Agricultural,23,mg/kg,
+Uranium,Coarse,Residential/Parkland,23,mg/kg,
+Uranium,Coarse,Commercial,33,mg/kg,
+Uranium,Coarse,Industrial,300,mg/kg,
+Vanadium,Fine,Natural Area,130,mg/kg,2
+Vanadium,Fine,Agricultural,130,mg/kg,2
+Vanadium,Fine,Residential/Parkland,130,mg/kg,2
+Vanadium,Fine,Commercial,130,mg/kg,2
+Vanadium,Fine,Industrial,130,mg/kg,2
+Vanadium,Coarse,Natural Area,130,mg/kg,2
+Vanadium,Coarse,Agricultural,130,mg/kg,2
+Vanadium,Coarse,Residential/Parkland,130,mg/kg,2
+Vanadium,Coarse,Commercial,130,mg/kg,2
+Vanadium,Coarse,Industrial,130,mg/kg,2
+Zinc,Fine,Natural Area,250,mg/kg,2
+Zinc,Fine,Agricultural,250,mg/kg,2
+Zinc,Fine,Residential/Parkland,250,mg/kg,2
+Zinc,Fine,Commercial,410,mg/kg,2
+Zinc,Fine,Industrial,410,mg/kg,2
+Zinc,Coarse,Natural Area,250,mg/kg,2
+Zinc,Coarse,Agricultural,250,mg/kg,2
+Zinc,Coarse,Residential/Parkland,250,mg/kg,2
+Zinc,Coarse,Commercial,410,mg/kg,2
+Zinc,Coarse,Industrial,410,mg/kg,2
+Benzene,Fine,Natural Area,0.046,mg/kg,
+Benzene,Fine,Agricultural,0.046,mg/kg,
+Benzene,Fine,Residential/Parkland,0.046,mg/kg,
+Benzene,Fine,Commercial,0.046,mg/kg,
+Benzene,Fine,Industrial,0.046,mg/kg,
+Benzene,Coarse,Natural Area,0.078,mg/kg,
+Benzene,Coarse,Agricultural,0.073,mg/kg,
+Benzene,Coarse,Residential/Parkland,0.073,mg/kg,
+Benzene,Coarse,Commercial,0.078,mg/kg,
+Benzene,Coarse,Industrial,0.078,mg/kg,
+Toluene,Fine,Natural Area,0.52,mg/kg,
+Toluene,Fine,Agricultural,0.52,mg/kg,
+Toluene,Fine,Residential/Parkland,0.52,mg/kg,
+Toluene,Fine,Commercial,0.52,mg/kg,
+Toluene,Fine,Industrial,0.52,mg/kg,
+Toluene,Coarse,Natural Area,0.12,mg/kg,
+Toluene,Coarse,Agricultural,0.12,mg/kg,
+Toluene,Coarse,Residential/Parkland,0.12,mg/kg,
+Toluene,Coarse,Commercial,0.12,mg/kg,
+Toluene,Coarse,Industrial,0.12,mg/kg,
+Ethylbenzene,Fine,Natural Area,0.073,mg/kg,
+Ethylbenzene,Fine,Agricultural,0.073,mg/kg,
+Ethylbenzene,Fine,Residential/Parkland,0.073,mg/kg,
+Ethylbenzene,Fine,Commercial,0.073,mg/kg,
+Ethylbenzene,Fine,Industrial,0.073,mg/kg,
+Ethylbenzene,Coarse,Natural Area,0.14,mg/kg,
+Ethylbenzene,Coarse,Agricultural,0.14,mg/kg,
+Ethylbenzene,Coarse,Residential/Parkland,0.14,mg/kg,
+Ethylbenzene,Coarse,Commercial,0.14,mg/kg,
+Ethylbenzene,Coarse,Industrial,0.14,mg/kg,
+Xylenes,Fine,Natural Area,0.99,mg/kg,5
+Xylenes,Fine,Agricultural,0.99,mg/kg,5
+Xylenes,Fine,Residential/Parkland,0.99,mg/kg,5
+Xylenes,Fine,Commercial,0.99,mg/kg,5
+Xylenes,Fine,Industrial,0.99,mg/kg,5
+Xylenes,Coarse,Natural Area,1.9,mg/kg,5
+Xylenes,Coarse,Agricultural,1.9,mg/kg,5
+Xylenes,Coarse,Residential/Parkland,1.9,mg/kg,5
+Xylenes,Coarse,Commercial,1.9,mg/kg,5
+Xylenes,Coarse,Industrial,1.9,mg/kg,5
+Styrene,Fine,Natural Area,0.68,mg/kg,
+Styrene,Fine,Agricultural,0.68,mg/kg,
+Styrene,Fine,Residential/Parkland,0.68,mg/kg,
+Styrene,Fine,Commercial,0.68,mg/kg,
+Styrene,Fine,Industrial,0.68,mg/kg,
+Styrene,Coarse,Natural Area,0.80,mg/kg,
+Styrene,Coarse,Agricultural,0.80,mg/kg,
+Styrene,Coarse,Residential/Parkland,0.80,mg/kg,
+Styrene,Coarse,Commercial,0.80,mg/kg,
+Styrene,Coarse,Industrial,0.80,mg/kg,
+F1,Fine,Natural Area,210,mg/kg,6
+F1,Fine,Agricultural,210,mg/kg,6
+F1,Fine,Residential/Parkland,210,mg/kg,6
+F1,Fine,Commercial,320,mg/kg,6
+F1,Fine,Industrial,320,mg/kg,6
+F1,Coarse,Natural Area,210,mg/kg,6
+F1,Coarse,Agricultural,24,mg/kg,6
+F1,Coarse,Residential/Parkland,24,mg/kg,6
+F1,Coarse,Commercial,270,mg/kg,6
+F1,Coarse,Industrial,270,mg/kg,6
+F2,Fine,Natural Area,150,mg/kg,6
+F2,Fine,Agricultural,150,mg/kg,6
+F2,Fine,Residential/Parkland,150,mg/kg,6
+F2,Fine,Commercial,260,mg/kg,6
+F2,Fine,Industrial,260,mg/kg,6
+F2,Coarse,Natural Area,150,mg/kg,6
+F2,Coarse,Agricultural,130,mg/kg,6
+F2,Coarse,Residential/Parkland,130,mg/kg,6
+F2,Coarse,Commercial,260,mg/kg,6
+F2,Coarse,Industrial,260,mg/kg,6
+F3,Fine,Natural Area,1300,mg/kg,6
+F3,Fine,Agricultural,1300,mg/kg,6
+F3,Fine,Residential/Parkland,1300,mg/kg,6
+F3,Fine,Commercial,2500,mg/kg,6
+F3,Fine,Industrial,2500,mg/kg,6
+F3,Coarse,Natural Area,300,mg/kg,6
+F3,Coarse,Agricultural,300,mg/kg,6
+F3,Coarse,Residential/Parkland,300,mg/kg,6
+F3,Coarse,Commercial,1700,mg/kg,6
+F3,Coarse,Industrial,1700,mg/kg,6
+F4,Fine,Natural Area,5600,mg/kg,6
+F4,Fine,Agricultural,5600,mg/kg,6
+F4,Fine,Residential/Parkland,5600,mg/kg,6
+F4,Fine,Commercial,6600,mg/kg,6
+F4,Fine,Industrial,6600,mg/kg,6
+F4,Coarse,Natural Area,2800,mg/kg,6
+F4,Coarse,Agricultural,2800,mg/kg,6
+F4,Coarse,Residential/Parkland,2800,mg/kg,6
+F4,Coarse,Commercial,3300,mg/kg,6
+F4,Coarse,Industrial,3300,mg/kg,6
+Acenaphthene,Fine,Natural Area,0.33,mg/kg,
+Acenaphthene,Fine,Agricultural,0.33,mg/kg,
+Acenaphthene,Fine,Residential/Parkland,0.33,mg/kg,
+Acenaphthene,Fine,Commercial,0.33,mg/kg,
+Acenaphthene,Fine,Industrial,0.33,mg/kg,
+Acenaphthene,Coarse,Natural Area,0.38,mg/kg,
+Acenaphthene,Coarse,Agricultural,0.38,mg/kg,
+Acenaphthene,Coarse,Residential/Parkland,0.38,mg/kg,
+Acenaphthene,Coarse,Commercial,0.38,mg/kg,
+Acenaphthene,Coarse,Industrial,0.38,mg/kg,
+Anthracene,Fine,Natural Area,1.3,mg/kg,
+Anthracene,Fine,Agricultural,1.3,mg/kg,
+Anthracene,Fine,Residential/Parkland,1.3,mg/kg,
+Anthracene,Fine,Commercial,1.3,mg/kg,
+Anthracene,Fine,Industrial,1.3,mg/kg,
+Anthracene,Coarse,Natural Area,0.0056,mg/kg,
+Anthracene,Coarse,Agricultural,0.0056,mg/kg,
+Anthracene,Coarse,Residential/Parkland,0.0056,mg/kg,
+Anthracene,Coarse,Commercial,0.0056,mg/kg,
+Anthracene,Coarse,Industrial,0.0056,mg/kg,
+Fluoranthene,Fine,Natural Area,15.4,mg/kg,
+Fluoranthene,Fine,Agricultural,15.4,mg/kg,
+Fluoranthene,Fine,Residential/Parkland,50,mg/kg,
+Fluoranthene,Fine,Commercial,180,mg/kg,
+Fluoranthene,Fine,Industrial,180,mg/kg,
+Fluoranthene,Coarse,Natural Area,0.055,mg/kg,
+Fluoranthene,Coarse,Agricultural,0.055,mg/kg,
+Fluoranthene,Coarse,Residential/Parkland,0.055,mg/kg,
+Fluoranthene,Coarse,Commercial,0.055,mg/kg,
+Fluoranthene,Coarse,Industrial,0.055,mg/kg,
+Fluorene,Fine,Natural Area,0.40,mg/kg,
+Fluorene,Fine,Agricultural,0.40,mg/kg,
+Fluorene,Fine,Residential/Parkland,0.40,mg/kg,
+Fluorene,Fine,Commercial,0.40,mg/kg,
+Fluorene,Fine,Industrial,0.40,mg/kg,
+Fluorene,Coarse,Natural Area,0.34,mg/kg,
+Fluorene,Coarse,Agricultural,0.34,mg/kg,
+Fluorene,Coarse,Residential/Parkland,0.34,mg/kg,
+Fluorene,Coarse,Commercial,0.34,mg/kg,
+Fluorene,Coarse,Industrial,0.34,mg/kg,
+Naphthalene,Fine,Natural Area,0.014,mg/kg,
+Naphthalene,Fine,Agricultural,0.014,mg/kg,
+Naphthalene,Fine,Residential/Parkland,0.014,mg/kg,
+Naphthalene,Fine,Commercial,0.014,mg/kg,
+Naphthalene,Fine,Industrial,0.014,mg/kg,
+Naphthalene,Coarse,Natural Area,0.017,mg/kg,
+Naphthalene,Coarse,Agricultural,0.017,mg/kg,
+Naphthalene,Coarse,Residential/Parkland,0.017,mg/kg,
+Naphthalene,Coarse,Commercial,0.017,mg/kg,
+Naphthalene,Coarse,Industrial,0.017,mg/kg,
+Phenanthrene,Fine,Natural Area,0.11,mg/kg,
+Phenanthrene,Fine,Agricultural,0.11,mg/kg,
+Phenanthrene,Fine,Residential/Parkland,0.11,mg/kg,
+Phenanthrene,Fine,Commercial,0.11,mg/kg,
+Phenanthrene,Fine,Industrial,0.11,mg/kg,
+Phenanthrene,Coarse,Natural Area,0.061,mg/kg,
+Phenanthrene,Coarse,Agricultural,0.061,mg/kg,
+Phenanthrene,Coarse,Residential/Parkland,0.061,mg/kg,
+Phenanthrene,Coarse,Commercial,0.061,mg/kg,
+Phenanthrene,Coarse,Industrial,0.061,mg/kg,
+Pyrene,Fine,Natural Area,7.7,mg/kg,
+Pyrene,Fine,Agricultural,7.7,mg/kg,
+Pyrene,Fine,Residential/Parkland,2100,mg/kg,
+Pyrene,Fine,Commercial,3200,mg/kg,
+Pyrene,Fine,Industrial,30000,mg/kg,
+Pyrene,Coarse,Natural Area,0.15,mg/kg,
+Pyrene,Coarse,Agricultural,0.15,mg/kg,
+Pyrene,Coarse,Residential/Parkland,0.15,mg/kg,
+Pyrene,Coarse,Commercial,0.15,mg/kg,
+Pyrene,Coarse,Industrial,0.15,mg/kg,
+Carcinogenic PAHs,Fine,Natural Area,IACR<1.0 and,mg/kg,"7,   18, 19"
+Carcinogenic PAHs,Fine,Agricultural,IACR<1.0 and,mg/kg,"7,   18, 19"
+Carcinogenic PAHs,Fine,Residential/Parkland,IACR<1.0 and,mg/kg,"7,   18, 19"
+Carcinogenic PAHs,Fine,Commercial,IACR<1.0 and,mg/kg,"7,   18, 19"
+Carcinogenic PAHs,Fine,Industrial,IACR<1.0,mg/kg,"7,   18, 19"
+Carcinogenic PAHs,Coarse,Natural Area,IACR<1.0 and,mg/kg,"7,   18, 19"
+Carcinogenic PAHs,Coarse,Agricultural,IACR<1.0 and,mg/kg,"7,   18, 19"
+Carcinogenic PAHs,Coarse,Residential/Parkland,IACR<1.0 and,mg/kg,"7,   18, 19"
+Carcinogenic PAHs,Coarse,Commercial,IACR<1.0 and,mg/kg,"7,   18, 19"
+Carcinogenic PAHs,Coarse,Industrial,IACR<1.0,mg/kg,"7,   18, 19"
+Benz[a]anthracene,Fine,Natural Area,6.2,mg/kg,8
+Benz[a]anthracene,Fine,Agricultural,6.2,mg/kg,8
+Benz[a]anthracene,Fine,Residential/Parkland,-,mg/kg,8
+Benz[a]anthracene,Fine,Commercial,-,mg/kg,8
+Benz[a]anthracene,Coarse,Natural Area,6.2,mg/kg,8
+Benz[a]anthracene,Coarse,Agricultural,6.2,mg/kg,8
+Benz[a]anthracene,Coarse,Residential/Parkland,-,mg/kg,8
+Benz[a]anthracene,Coarse,Commercial,-,mg/kg,8
+Benzo[b+j]fluoranthene,Fine,Natural Area,6.2,mg/kg,8
+Benzo[b+j]fluoranthene,Fine,Agricultural,6.2,mg/kg,8
+Benzo[b+j]fluoranthene,Fine,Residential/Parkland,-,mg/kg,8
+Benzo[b+j]fluoranthene,Fine,Commercial,-,mg/kg,8
+Benzo[b+j]fluoranthene,Coarse,Natural Area,6.2,mg/kg,8
+Benzo[b+j]fluoranthene,Coarse,Agricultural,6.2,mg/kg,8
+Benzo[b+j]fluoranthene,Coarse,Residential/Parkland,-,mg/kg,8
+Benzo[b+j]fluoranthene,Coarse,Commercial,-,mg/kg,8
+Benzo[k]fluoranthene,Fine,Natural Area,6.2,mg/kg,8
+Benzo[k]fluoranthene,Fine,Agricultural,6.2,mg/kg,8
+Benzo[k]fluoranthene,Fine,Residential/Parkland,-,mg/kg,8
+Benzo[k]fluoranthene,Fine,Commercial,-,mg/kg,8
+Benzo[k]fluoranthene,Coarse,Natural Area,6.2,mg/kg,8
+Benzo[k]fluoranthene,Coarse,Agricultural,6.2,mg/kg,8
+Benzo[k]fluoranthene,Coarse,Residential/Parkland,-,mg/kg,8
+Benzo[k]fluoranthene,Coarse,Commercial,-,mg/kg,8
+"Benzo[g,h,i]perylene",Fine,Natural Area,-,mg/kg,
+"Benzo[g,h,i]perylene",Fine,Agricultural,-,mg/kg,
+"Benzo[g,h,i]perylene",Fine,Residential/Parkland,-,mg/kg,
+"Benzo[g,h,i]perylene",Fine,Commercial,-,mg/kg,
+"Benzo[g,h,i]perylene",Coarse,Natural Area,-,mg/kg,
+"Benzo[g,h,i]perylene",Coarse,Agricultural,-,mg/kg,
+"Benzo[g,h,i]perylene",Coarse,Residential/Parkland,-,mg/kg,
+"Benzo[g,h,i]perylene",Coarse,Commercial,-,mg/kg,
+Benzo[a]pyrene,Fine,Natural Area,0.60,mg/kg,8
+Benzo[a]pyrene,Fine,Agricultural,0.60,mg/kg,8
+Benzo[a]pyrene,Fine,Residential/Parkland,20,mg/kg,8
+Benzo[a]pyrene,Fine,Commercial,72,mg/kg,8
+Benzo[a]pyrene,Fine,Industrial,72,mg/kg,8
+Benzo[a]pyrene,Coarse,Natural Area,0.60,mg/kg,8
+Benzo[a]pyrene,Coarse,Agricultural,0.60,mg/kg,8
+Benzo[a]pyrene,Coarse,Residential/Parkland,20,mg/kg,8
+Benzo[a]pyrene,Coarse,Commercial,72,mg/kg,8
+Benzo[a]pyrene,Coarse,Industrial,72,mg/kg,8
+Chrysene,Fine,Natural Area,6.2,mg/kg,8
+Chrysene,Fine,Agricultural,6.2,mg/kg,8
+Chrysene,Fine,Residential/Parkland,-,mg/kg,8
+Chrysene,Fine,Commercial,-,mg/kg,8
+Chrysene,Coarse,Natural Area,6.2,mg/kg,8
+Chrysene,Coarse,Agricultural,6.2,mg/kg,8
+Chrysene,Coarse,Residential/Parkland,-,mg/kg,8
+Chrysene,Coarse,Commercial,-,mg/kg,8
+"Dibenz[a,h]anthracene",Fine,Natural Area,-,mg/kg,-
+"Dibenz[a,h]anthracene",Fine,Agricultural,-,mg/kg,-
+"Dibenz[a,h]anthracene",Fine,Residential/Parkland,-,mg/kg,-
+"Dibenz[a,h]anthracene",Fine,Commercial,-,mg/kg,-
+"Dibenz[a,h]anthracene",Coarse,Natural Area,-,mg/kg,-
+"Dibenz[a,h]anthracene",Coarse,Agricultural,-,mg/kg,-
+"Dibenz[a,h]anthracene",Coarse,Residential/Parkland,-,mg/kg,-
+"Dibenz[a,h]anthracene",Coarse,Commercial,-,mg/kg,-
+"Indeno[1,2,3-c,d]pyrene",Fine,Natural Area,-,mg/kg,
+"Indeno[1,2,3-c,d]pyrene",Fine,Agricultural,-,mg/kg,
+"Indeno[1,2,3-c,d]pyrene",Fine,Residential/Parkland,-,mg/kg,
+"Indeno[1,2,3-c,d]pyrene",Fine,Commercial,-,mg/kg,
+"Indeno[1,2,3-c,d]pyrene",Coarse,Natural Area,-,mg/kg,
+"Indeno[1,2,3-c,d]pyrene",Coarse,Agricultural,-,mg/kg,
+"Indeno[1,2,3-c,d]pyrene",Coarse,Residential/Parkland,-,mg/kg,
+"Indeno[1,2,3-c,d]pyrene",Coarse,Commercial,-,mg/kg,
+Vinyl chloride,Fine,Natural Area,0.014,mg/kg,
+Vinyl chloride,Fine,Agricultural,0.0083,mg/kg,
+Vinyl chloride,Fine,Residential/Parkland,0.0083,mg/kg,
+Vinyl chloride,Fine,Commercial,0.014,mg/kg,
+Vinyl chloride,Fine,Industrial,0.014,mg/kg,
+Vinyl chloride,Coarse,Natural Area,0.020,mg/kg,
+Vinyl chloride,Coarse,Agricultural,0.00034,mg/kg,
+Vinyl chloride,Coarse,Residential/Parkland,0.00034,mg/kg,
+Vinyl chloride,Coarse,Commercial,0.0043,mg/kg,
+Vinyl chloride,Coarse,Industrial,0.0043,mg/kg,
+"1,1-Dichloroethene",Fine,Natural Area,0.15,mg/kg,
+"1,1-Dichloroethene",Fine,Agricultural,0.15,mg/kg,
+"1,1-Dichloroethene",Fine,Residential/Parkland,0.15,mg/kg,
+"1,1-Dichloroethene",Fine,Commercial,0.15,mg/kg,
+"1,1-Dichloroethene",Fine,Industrial,0.15,mg/kg,
+"1,1-Dichloroethene",Coarse,Natural Area,0.24,mg/kg,
+"1,1-Dichloroethene",Coarse,Agricultural,0.021,mg/kg,
+"1,1-Dichloroethene",Coarse,Residential/Parkland,0.021,mg/kg,
+"1,1-Dichloroethene",Coarse,Commercial,0.24,mg/kg,
+"1,1-Dichloroethene",Coarse,Industrial,0.24,mg/kg,
+"Trichloroethene (Trichloroethylene, TCE)",Fine,Natural Area,0.054,mg/kg,"5, 11"
+"Trichloroethene (Trichloroethylene, TCE)",Fine,Agricultural,0.054,mg/kg,"5, 11"
+"Trichloroethene (Trichloroethylene, TCE)",Fine,Residential/Parkland,0.054,mg/kg,"5, 11"
+"Trichloroethene (Trichloroethylene, TCE)",Fine,Commercial,0.054,mg/kg,"5, 11"
+"Trichloroethene (Trichloroethylene, TCE)",Fine,Industrial,0.054,mg/kg,"5, 11"
+"Trichloroethene (Trichloroethylene, TCE)",Coarse,Natural Area,0.081,mg/kg,"5, 11"
+"Trichloroethene (Trichloroethylene, TCE)",Coarse,Agricultural,0.012,mg/kg,"5, 11"
+"Trichloroethene (Trichloroethylene, TCE)",Coarse,Residential/Parkland,0.012,mg/kg,"5, 11"
+"Trichloroethene (Trichloroethylene, TCE)",Coarse,Commercial,0.081,mg/kg,"5, 11"
+"Trichloroethene (Trichloroethylene, TCE)",Coarse,Industrial,0.081,mg/kg,"5, 11"
+"Tetrachloroethene  (Tetrachloroethylene,  Perchloroethylene, PCE)",Fine,Natural Area,0.26,mg/kg,
+"Tetrachloroethene  (Tetrachloroethylene,  Perchloroethylene, PCE)",Fine,Agricultural,0.26,mg/kg,
+"Tetrachloroethene  (Tetrachloroethylene,  Perchloroethylene, PCE)",Fine,Residential/Parkland,0.26,mg/kg,
+"Tetrachloroethene  (Tetrachloroethylene,  Perchloroethylene, PCE)",Fine,Commercial,0.26,mg/kg,
+"Tetrachloroethene  (Tetrachloroethylene,  Perchloroethylene, PCE)",Fine,Industrial,0.26,mg/kg,
+"Tetrachloroethene  (Tetrachloroethylene,  Perchloroethylene, PCE)",Coarse,Natural Area,0.46,mg/kg,
+"Tetrachloroethene  (Tetrachloroethylene,  Perchloroethylene, PCE)",Coarse,Agricultural,0.018,mg/kg,
+"Tetrachloroethene  (Tetrachloroethylene,  Perchloroethylene, PCE)",Coarse,Residential/Parkland,0.018,mg/kg,
+"Tetrachloroethene  (Tetrachloroethylene,  Perchloroethylene, PCE)",Coarse,Commercial,0.22,mg/kg,
+"Tetrachloroethene  (Tetrachloroethylene,  Perchloroethylene, PCE)",Coarse,Industrial,0.22,mg/kg,
+"1,2-Dichloroethane",Fine,Natural Area,0.025,mg/kg,
+"1,2-Dichloroethane",Fine,Agricultural,0.0062,mg/kg,
+"1,2-Dichloroethane",Fine,Residential/Parkland,0.025,mg/kg,
+"1,2-Dichloroethane",Fine,Commercial,0.025,mg/kg,
+"1,2-Dichloroethane",Fine,Industrial,0.025,mg/kg,
+"1,2-Dichloroethane",Coarse,Natural Area,0.041,mg/kg,
+"1,2-Dichloroethane",Coarse,Agricultural,0.0027,mg/kg,
+"1,2-Dichloroethane",Coarse,Residential/Parkland,0.0027,mg/kg,
+"1,2-Dichloroethane",Coarse,Commercial,0.033,mg/kg,
+"1,2-Dichloroethane",Coarse,Industrial,0.033,mg/kg,
+Dichloromethane (Methylene chloride),Fine,Natural Area,0.10,mg/kg,
+Dichloromethane (Methylene chloride),Fine,Agricultural,0.052,mg/kg,
+Dichloromethane (Methylene chloride),Fine,Residential/Parkland,0.10,mg/kg,
+Dichloromethane (Methylene chloride),Fine,Commercial,0.10,mg/kg,
+Dichloromethane (Methylene chloride),Fine,Industrial,0.10,mg/kg,
+Dichloromethane (Methylene chloride),Coarse,Natural Area,0.095,mg/kg,
+Dichloromethane (Methylene chloride),Coarse,Agricultural,0.048,mg/kg,
+Dichloromethane (Methylene chloride),Coarse,Residential/Parkland,0.095,mg/kg,
+Dichloromethane (Methylene chloride),Coarse,Commercial,0.095,mg/kg,
+Dichloromethane (Methylene chloride),Coarse,Industrial,0.095,mg/kg,
+Trichloromethane (Chloroform),Fine,Natural Area,0.16,mg/kg,
+Trichloromethane (Chloroform),Fine,Agricultural,0.16,mg/kg,
+Trichloromethane (Chloroform),Fine,Residential/Parkland,0.16,mg/kg,
+Trichloromethane (Chloroform),Fine,Commercial,0.16,mg/kg,
+Trichloromethane (Chloroform),Fine,Industrial,0.16,mg/kg,
+Trichloromethane (Chloroform),Coarse,Natural Area,0.030,mg/kg,
+Trichloromethane (Chloroform),Coarse,Agricultural,0.011,mg/kg,
+Trichloromethane (Chloroform),Coarse,Residential/Parkland,0.011,mg/kg,
+Trichloromethane (Chloroform),Coarse,Commercial,0.030,mg/kg,
+Trichloromethane (Chloroform),Coarse,Industrial,0.030,mg/kg,
+Tetrachloromethane (Carbon tetrachloride),Fine,Natural Area,0.037,mg/kg,
+Tetrachloromethane (Carbon tetrachloride),Fine,Agricultural,0.013,mg/kg,
+Tetrachloromethane (Carbon tetrachloride),Fine,Residential/Parkland,0.013,mg/kg,
+Tetrachloromethane (Carbon tetrachloride),Fine,Commercial,0.037,mg/kg,
+Tetrachloromethane (Carbon tetrachloride),Fine,Industrial,0.037,mg/kg,
+Tetrachloromethane (Carbon tetrachloride),Coarse,Natural Area,0.062,mg/kg,
+Tetrachloromethane (Carbon tetrachloride),Coarse,Agricultural,0.00057,mg/kg,
+Tetrachloromethane (Carbon tetrachloride),Coarse,Residential/Parkland,0.00057,mg/kg,
+Tetrachloromethane (Carbon tetrachloride),Coarse,Commercial,0.0069,mg/kg,
+Tetrachloromethane (Carbon tetrachloride),Coarse,Industrial,0.0069,mg/kg,
+Dibromochloromethane,Fine,Natural Area,0.91,mg/kg,
+Dibromochloromethane,Fine,Agricultural,0.12,mg/kg,
+Dibromochloromethane,Fine,Residential/Parkland,0.91,mg/kg,
+Dibromochloromethane,Fine,Commercial,0.91,mg/kg,
+Dibromochloromethane,Fine,Industrial,0.91,mg/kg,
+Dibromochloromethane,Coarse,Natural Area,1.5,mg/kg,
+Dibromochloromethane,Coarse,Agricultural,0.12,mg/kg,
+Dibromochloromethane,Coarse,Residential/Parkland,0.27,mg/kg,
+Dibromochloromethane,Coarse,Commercial,1.5,mg/kg,
+Dibromochloromethane,Coarse,Industrial,1.5,mg/kg,
+Chlorobenzene,Fine,Natural Area,0.61,mg/kg,12
+Chlorobenzene,Fine,Agricultural,0.39,mg/kg,12
+Chlorobenzene,Fine,Residential/Parkland,0.39,mg/kg,12
+Chlorobenzene,Fine,Commercial,0.61,mg/kg,12
+Chlorobenzene,Fine,Industrial,0.61,mg/kg,12
+Chlorobenzene,Coarse,Natural Area,1.1,mg/kg,12
+Chlorobenzene,Coarse,Agricultural,0.018,mg/kg,12
+Chlorobenzene,Coarse,Residential/Parkland,0.018,mg/kg,12
+Chlorobenzene,Coarse,Commercial,0.22,mg/kg,12
+Chlorobenzene,Coarse,Industrial,0.22,mg/kg,12
+"1,2-Dichlorobenzene",Fine,Natural Area,0.097,mg/kg,12
+"1,2-Dichlorobenzene",Fine,Agricultural,0.097,mg/kg,12
+"1,2-Dichlorobenzene",Fine,Residential/Parkland,0.097,mg/kg,12
+"1,2-Dichlorobenzene",Fine,Commercial,0.097,mg/kg,12
+"1,2-Dichlorobenzene",Fine,Industrial,0.097,mg/kg,12
+"1,2-Dichlorobenzene",Coarse,Natural Area,0.18,mg/kg,12
+"1,2-Dichlorobenzene",Coarse,Agricultural,0.18,mg/kg,12
+"1,2-Dichlorobenzene",Coarse,Residential/Parkland,0.18,mg/kg,12
+"1,2-Dichlorobenzene",Coarse,Commercial,0.18,mg/kg,12
+"1,2-Dichlorobenzene",Coarse,Industrial,0.18,mg/kg,12
+"1,4-Dichlorobenzene",Fine,Natural Area,0.051,mg/kg,
+"1,4-Dichlorobenzene",Fine,Agricultural,0.051,mg/kg,
+"1,4-Dichlorobenzene",Fine,Residential/Parkland,0.051,mg/kg,
+"1,4-Dichlorobenzene",Fine,Commercial,0.051,mg/kg,
+"1,4-Dichlorobenzene",Fine,Industrial,0.051,mg/kg,
+"1,4-Dichlorobenzene",Coarse,Natural Area,0.098,mg/kg,
+"1,4-Dichlorobenzene",Coarse,Agricultural,0.098,mg/kg,
+"1,4-Dichlorobenzene",Coarse,Residential/Parkland,0.098,mg/kg,
+"1,4-Dichlorobenzene",Coarse,Commercial,0.098,mg/kg,
+"1,4-Dichlorobenzene",Coarse,Industrial,0.098,mg/kg,
+"1,2,3-Trichlorobenzene",Fine,Natural Area,0.26,mg/kg,
+"1,2,3-Trichlorobenzene",Fine,Agricultural,0.26,mg/kg,
+"1,2,3-Trichlorobenzene",Fine,Residential/Parkland,0.26,mg/kg,
+"1,2,3-Trichlorobenzene",Fine,Commercial,0.26,mg/kg,
+"1,2,3-Trichlorobenzene",Fine,Industrial,0.26,mg/kg,
+"1,2,3-Trichlorobenzene",Coarse,Natural Area,0.31,mg/kg,
+"1,2,3-Trichlorobenzene",Coarse,Agricultural,0.26,mg/kg,
+"1,2,3-Trichlorobenzene",Coarse,Residential/Parkland,0.26,mg/kg,
+"1,2,3-Trichlorobenzene",Coarse,Commercial,0.31,mg/kg,
+"1,2,3-Trichlorobenzene",Coarse,Industrial,0.31,mg/kg,
+"1,2,4-Trichlorobenzene",Fine,Natural Area,0.78,mg/kg,
+"1,2,4-Trichlorobenzene",Fine,Agricultural,0.78,mg/kg,
+"1,2,4-Trichlorobenzene",Fine,Residential/Parkland,0.78,mg/kg,
+"1,2,4-Trichlorobenzene",Fine,Commercial,0.78,mg/kg,
+"1,2,4-Trichlorobenzene",Fine,Industrial,0.78,mg/kg,
+"1,2,4-Trichlorobenzene",Coarse,Natural Area,0.93,mg/kg,
+"1,2,4-Trichlorobenzene",Coarse,Agricultural,0.23,mg/kg,
+"1,2,4-Trichlorobenzene",Coarse,Residential/Parkland,0.23,mg/kg,
+"1,2,4-Trichlorobenzene",Coarse,Commercial,0.93,mg/kg,
+"1,2,4-Trichlorobenzene",Coarse,Industrial,0.93,mg/kg,
+"1,3,5-Trichlorobenzene",Fine,Natural Area,1.9,mg/kg,
+"1,3,5-Trichlorobenzene",Fine,Agricultural,1.9,mg/kg,
+"1,3,5-Trichlorobenzene",Fine,Residential/Parkland,1.9,mg/kg,
+"1,3,5-Trichlorobenzene",Fine,Commercial,1.9,mg/kg,
+"1,3,5-Trichlorobenzene",Fine,Industrial,1.9,mg/kg,
+"1,3,5-Trichlorobenzene",Coarse,Natural Area,3.6,mg/kg,
+"1,3,5-Trichlorobenzene",Coarse,Agricultural,0.13,mg/kg,
+"1,3,5-Trichlorobenzene",Coarse,Residential/Parkland,0.13,mg/kg,
+"1,3,5-Trichlorobenzene",Coarse,Commercial,1.3,mg/kg,
+"1,3,5-Trichlorobenzene",Coarse,Industrial,1.3,mg/kg,
+"1,2,3,4-Tetrachlorobenzene",Fine,Natural Area,0.042,mg/kg,
+"1,2,3,4-Tetrachlorobenzene",Fine,Agricultural,0.042,mg/kg,
+"1,2,3,4-Tetrachlorobenzene",Fine,Residential/Parkland,0.042,mg/kg,
+"1,2,3,4-Tetrachlorobenzene",Fine,Commercial,0.042,mg/kg,
+"1,2,3,4-Tetrachlorobenzene",Fine,Industrial,0.042,mg/kg,
+"1,2,3,4-Tetrachlorobenzene",Coarse,Natural Area,0.050,mg/kg,
+"1,2,3,4-Tetrachlorobenzene",Coarse,Agricultural,0.050,mg/kg,
+"1,2,3,4-Tetrachlorobenzene",Coarse,Residential/Parkland,0.050,mg/kg,
+"1,2,3,4-Tetrachlorobenzene",Coarse,Commercial,0.050,mg/kg,
+"1,2,3,4-Tetrachlorobenzene",Coarse,Industrial,0.050,mg/kg,
+"1,2,3,5-Tetrachlorobenzene",Fine,Natural Area,0.37,mg/kg,
+"1,2,3,5-Tetrachlorobenzene",Fine,Agricultural,0.37,mg/kg,
+"1,2,3,5-Tetrachlorobenzene",Fine,Residential/Parkland,0.37,mg/kg,
+"1,2,3,5-Tetrachlorobenzene",Fine,Commercial,0.37,mg/kg,
+"1,2,3,5-Tetrachlorobenzene",Fine,Industrial,0.37,mg/kg,
+"1,2,3,5-Tetrachlorobenzene",Coarse,Natural Area,0.70,mg/kg,
+"1,2,3,5-Tetrachlorobenzene",Coarse,Agricultural,0.10,mg/kg,
+"1,2,3,5-Tetrachlorobenzene",Coarse,Residential/Parkland,0.10,mg/kg,
+"1,2,3,5-Tetrachlorobenzene",Coarse,Commercial,0.70,mg/kg,
+"1,2,3,5-Tetrachlorobenzene",Coarse,Industrial,0.70,mg/kg,
+"1,2,4,5-Tetrachlorobenzene",Fine,Natural Area,0.19,mg/kg,
+"1,2,4,5-Tetrachlorobenzene",Fine,Agricultural,0.19,mg/kg,
+"1,2,4,5-Tetrachlorobenzene",Fine,Residential/Parkland,0.19,mg/kg,
+"1,2,4,5-Tetrachlorobenzene",Fine,Commercial,0.19,mg/kg,
+"1,2,4,5-Tetrachlorobenzene",Fine,Industrial,0.19,mg/kg,
+"1,2,4,5-Tetrachlorobenzene",Coarse,Natural Area,0.37,mg/kg,
+"1,2,4,5-Tetrachlorobenzene",Coarse,Agricultural,0.052,mg/kg,
+"1,2,4,5-Tetrachlorobenzene",Coarse,Residential/Parkland,0.052,mg/kg,
+"1,2,4,5-Tetrachlorobenzene",Coarse,Commercial,0.37,mg/kg,
+"1,2,4,5-Tetrachlorobenzene",Coarse,Industrial,0.37,mg/kg,
+Pentachlorobenzene,Fine,Natural Area,24,mg/kg,
+Pentachlorobenzene,Fine,Agricultural,22,mg/kg,
+Pentachlorobenzene,Fine,Residential/Parkland,22,mg/kg,
+Pentachlorobenzene,Fine,Commercial,24,mg/kg,
+Pentachlorobenzene,Fine,Industrial,24,mg/kg,
+Pentachlorobenzene,Coarse,Natural Area,5.2,mg/kg,
+Pentachlorobenzene,Coarse,Agricultural,5.2,mg/kg,
+Pentachlorobenzene,Coarse,Residential/Parkland,5.2,mg/kg,
+Pentachlorobenzene,Coarse,Commercial,5.2,mg/kg,
+Pentachlorobenzene,Coarse,Industrial,5.2,mg/kg,
+Hexachlorobenzene,Fine,Natural Area,3.6,mg/kg,
+Hexachlorobenzene,Fine,Agricultural,0.80,mg/kg,
+Hexachlorobenzene,Fine,Residential/Parkland,3.6,mg/kg,
+Hexachlorobenzene,Fine,Commercial,3.6,mg/kg,
+Hexachlorobenzene,Fine,Industrial,3.6,mg/kg,
+Hexachlorobenzene,Coarse,Natural Area,7.0,mg/kg,
+Hexachlorobenzene,Coarse,Agricultural,0.50,mg/kg,
+Hexachlorobenzene,Coarse,Residential/Parkland,0.50,mg/kg,
+Hexachlorobenzene,Coarse,Commercial,6.0,mg/kg,
+Hexachlorobenzene,Coarse,Industrial,6.0,mg/kg,
+"2,4-Dichlorophenol",Fine,Natural Area,0.0029,mg/kg,
+"2,4-Dichlorophenol",Fine,Agricultural,0.0029,mg/kg,
+"2,4-Dichlorophenol",Fine,Residential/Parkland,0.0029,mg/kg,
+"2,4-Dichlorophenol",Fine,Commercial,0.0029,mg/kg,
+"2,4-Dichlorophenol",Fine,Industrial,0.0029,mg/kg,
+"2,4-Dichlorophenol",Coarse,Natural Area,0.0034,mg/kg,
+"2,4-Dichlorophenol",Coarse,Agricultural,0.0034,mg/kg,
+"2,4-Dichlorophenol",Coarse,Residential/Parkland,0.0034,mg/kg,
+"2,4-Dichlorophenol",Coarse,Commercial,0.0034,mg/kg,
+"2,4-Dichlorophenol",Coarse,Industrial,0.0034,mg/kg,
+"2,4,6-Trichlorophenol",Fine,Natural Area,0.19,mg/kg,
+"2,4,6-Trichlorophenol",Fine,Agricultural,0.19,mg/kg,
+"2,4,6-Trichlorophenol",Fine,Residential/Parkland,0.19,mg/kg,
+"2,4,6-Trichlorophenol",Fine,Commercial,0.19,mg/kg,
+"2,4,6-Trichlorophenol",Fine,Industrial,0.19,mg/kg,
+"2,4,6-Trichlorophenol",Coarse,Natural Area,0.37,mg/kg,
+"2,4,6-Trichlorophenol",Coarse,Agricultural,0.37,mg/kg,
+"2,4,6-Trichlorophenol",Coarse,Residential/Parkland,0.37,mg/kg,
+"2,4,6-Trichlorophenol",Coarse,Commercial,0.37,mg/kg,
+"2,4,6-Trichlorophenol",Coarse,Industrial,0.37,mg/kg,
+"2,3,4,6-Tetrachlorophenol",Fine,Natural Area,0.039,mg/kg,
+"2,3,4,6-Tetrachlorophenol",Fine,Agricultural,0.039,mg/kg,
+"2,3,4,6-Tetrachlorophenol",Fine,Residential/Parkland,0.039,mg/kg,
+"2,3,4,6-Tetrachlorophenol",Fine,Commercial,0.039,mg/kg,
+"2,3,4,6-Tetrachlorophenol",Fine,Industrial,0.039,mg/kg,
+"2,3,4,6-Tetrachlorophenol",Coarse,Natural Area,0.047,mg/kg,
+"2,3,4,6-Tetrachlorophenol",Coarse,Agricultural,0.047,mg/kg,
+"2,3,4,6-Tetrachlorophenol",Coarse,Residential/Parkland,0.047,mg/kg,
+"2,3,4,6-Tetrachlorophenol",Coarse,Commercial,0.047,mg/kg,
+"2,3,4,6-Tetrachlorophenol",Coarse,Industrial,0.047,mg/kg,
+Pentachlorophenol,Fine,Natural Area,0.025,mg/kg,5
+Pentachlorophenol,Fine,Agricultural,0.025,mg/kg,5
+Pentachlorophenol,Fine,Residential/Parkland,0.025,mg/kg,5
+Pentachlorophenol,Fine,Commercial,0.025,mg/kg,5
+Pentachlorophenol,Fine,Industrial,0.025,mg/kg,5
+Pentachlorophenol,Coarse,Natural Area,0.029,mg/kg,5
+Pentachlorophenol,Coarse,Agricultural,0.029,mg/kg,5
+Pentachlorophenol,Coarse,Residential/Parkland,0.029,mg/kg,5
+Pentachlorophenol,Coarse,Commercial,0.029,mg/kg,5
+Pentachlorophenol,Coarse,Industrial,0.029,mg/kg,5
+Dioxins & Furans,Fine,Natural Area,0.00025,mg/kg,9
+Dioxins & Furans,Fine,Agricultural,0.000004,mg/kg,9
+Dioxins & Furans,Fine,Residential/Parkland,0.000004,mg/kg,9
+Dioxins & Furans,Fine,Commercial,0.000004,mg/kg,9
+Dioxins & Furans,Fine,Industrial,0.000004,mg/kg,9
+Dioxins & Furans,Coarse,Natural Area,0.00025,mg/kg,9
+Dioxins & Furans,Coarse,Agricultural,0.000004,mg/kg,9
+Dioxins & Furans,Coarse,Residential/Parkland,0.000004,mg/kg,9
+Dioxins & Furans,Coarse,Commercial,0.000004,mg/kg,9
+Dioxins & Furans,Coarse,Industrial,0.000004,mg/kg,9
+PCBs,Fine,Natural Area,1.3,mg/kg,5
+PCBs,Fine,Agricultural,1.3,mg/kg,5
+PCBs,Fine,Residential/Parkland,22,mg/kg,5
+PCBs,Fine,Commercial,33,mg/kg,5
+PCBs,Fine,Industrial,33,mg/kg,5
+PCBs,Coarse,Natural Area,1.3,mg/kg,5
+PCBs,Coarse,Agricultural,1.3,mg/kg,5
+PCBs,Coarse,Residential/Parkland,22,mg/kg,5
+PCBs,Coarse,Commercial,33,mg/kg,5
+PCBs,Coarse,Industrial,33,mg/kg,5
+Aldicarb,Fine,Natural Area,0.041,mg/kg,12
+Aldicarb,Fine,Agricultural,0.012,mg/kg,12
+Aldicarb,Fine,Residential/Parkland,0.041,mg/kg,12
+Aldicarb,Fine,Commercial,0.041,mg/kg,12
+Aldicarb,Fine,Industrial,0.041,mg/kg,12
+Aldicarb,Coarse,Natural Area,0.065,mg/kg,12
+Aldicarb,Coarse,Agricultural,0.012,mg/kg,12
+Aldicarb,Coarse,Residential/Parkland,0.065,mg/kg,12
+Aldicarb,Coarse,Commercial,0.065,mg/kg,12
+Aldicarb,Coarse,Industrial,0.065,mg/kg,12
+Aldrin,Fine,Natural Area,5.9,mg/kg,
+Aldrin,Fine,Agricultural,3.4,mg/kg,
+Aldrin,Fine,Residential/Parkland,3.4,mg/kg,
+Aldrin,Fine,Commercial,5.1,mg/kg,
+Aldrin,Fine,Industrial,5.9,mg/kg,
+Aldrin,Coarse,Natural Area,11,mg/kg,
+Aldrin,Coarse,Agricultural,3.4,mg/kg,
+Aldrin,Coarse,Residential/Parkland,3.4,mg/kg,
+Aldrin,Coarse,Commercial,5.1,mg/kg,
+Aldrin,Coarse,Industrial,11,mg/kg,
+Atrazine and metabolites,Fine,Natural Area,0.0088,mg/kg,
+Atrazine and metabolites,Fine,Agricultural,0.0088,mg/kg,
+Atrazine and metabolites,Fine,Residential/Parkland,0.0088,mg/kg,
+Atrazine and metabolites,Fine,Commercial,0.0088,mg/kg,
+Atrazine and metabolites,Fine,Industrial,0.0088,mg/kg,
+Atrazine and metabolites,Coarse,Natural Area,0.010,mg/kg,
+Atrazine and metabolites,Coarse,Agricultural,0.010,mg/kg,
+Atrazine and metabolites,Coarse,Residential/Parkland,0.010,mg/kg,
+Atrazine and metabolites,Coarse,Commercial,0.010,mg/kg,
+Atrazine and metabolites,Coarse,Industrial,0.010,mg/kg,
+Azniphos-methyl (Guthion),Fine,Natural Area,0.41,mg/kg,
+Azniphos-methyl (Guthion),Fine,Agricultural,0.41,mg/kg,
+Azniphos-methyl (Guthion),Fine,Residential/Parkland,0.41,mg/kg,
+Azniphos-methyl (Guthion),Fine,Commercial,0.41,mg/kg,
+Azniphos-methyl (Guthion),Fine,Industrial,0.41,mg/kg,
+Azniphos-methyl (Guthion),Coarse,Natural Area,0.75,mg/kg,
+Azniphos-methyl (Guthion),Coarse,Agricultural,0.75,mg/kg,
+Azniphos-methyl (Guthion),Coarse,Residential/Parkland,0.75,mg/kg,
+Azniphos-methyl (Guthion),Coarse,Commercial,0.75,mg/kg,
+Azniphos-methyl (Guthion),Coarse,Industrial,0.75,mg/kg,
+Bendiocarb,Fine,Natural Area,0.14,mg/kg,
+Bendiocarb,Fine,Agricultural,0.14,mg/kg,
+Bendiocarb,Fine,Residential/Parkland,0.14,mg/kg,
+Bendiocarb,Fine,Commercial,0.14,mg/kg,
+Bendiocarb,Fine,Industrial,0.14,mg/kg,
+Bendiocarb,Coarse,Natural Area,0.21,mg/kg,
+Bendiocarb,Coarse,Agricultural,0.21,mg/kg,
+Bendiocarb,Coarse,Residential/Parkland,0.21,mg/kg,
+Bendiocarb,Coarse,Commercial,0.21,mg/kg,
+Bendiocarb,Coarse,Industrial,0.21,mg/kg,
+Bromacil,Fine,Natural Area,0.009,mg/kg,13
+Bromacil,Fine,Agricultural,0.009,mg/kg,13
+Bromacil,Fine,Residential/Parkland,0.009,mg/kg,13
+Bromacil,Fine,Commercial,0.009,mg/kg,13
+Bromacil,Fine,Industrial,0.009,mg/kg,13
+Bromacil,Coarse,Natural Area,0.009,mg/kg,13
+Bromacil,Coarse,Agricultural,0.009,mg/kg,13
+Bromacil,Coarse,Residential/Parkland,0.009,mg/kg,13
+Bromacil,Coarse,Commercial,0.009,mg/kg,13
+Bromacil,Coarse,Industrial,0.009,mg/kg,13
+Bromoxynil,Fine,Natural Area,0.044,mg/kg,13
+Bromoxynil,Fine,Agricultural,0.044,mg/kg,13
+Bromoxynil,Fine,Residential/Parkland,0.044,mg/kg,13
+Bromoxynil,Fine,Commercial,0.044,mg/kg,13
+Bromoxynil,Fine,Industrial,0.044,mg/kg,13
+Bromoxynil,Coarse,Natural Area,0.052,mg/kg,13
+Bromoxynil,Coarse,Agricultural,0.052,mg/kg,13
+Bromoxynil,Coarse,Residential/Parkland,0.052,mg/kg,13
+Bromoxynil,Coarse,Commercial,0.052,mg/kg,13
+Bromoxynil,Coarse,Industrial,0.052,mg/kg,13
+Carbaryl,Fine,Natural Area,1.9,mg/kg,12
+Carbaryl,Fine,Agricultural,1.9,mg/kg,12
+Carbaryl,Fine,Residential/Parkland,1.9,mg/kg,12
+Carbaryl,Fine,Commercial,1.9,mg/kg,12
+Carbaryl,Fine,Industrial,1.9,mg/kg,12
+Carbaryl,Coarse,Natural Area,3.6,mg/kg,12
+Carbaryl,Coarse,Agricultural,3.6,mg/kg,12
+Carbaryl,Coarse,Residential/Parkland,3.6,mg/kg,12
+Carbaryl,Coarse,Commercial,3.6,mg/kg,12
+Carbaryl,Coarse,Industrial,3.6,mg/kg,12
+Carbofuran,Fine,Natural Area,0.68,mg/kg,12
+Carbofuran,Fine,Agricultural,0.082,mg/kg,12
+Carbofuran,Fine,Residential/Parkland,0.68,mg/kg,12
+Carbofuran,Fine,Commercial,0.68,mg/kg,12
+Carbofuran,Fine,Industrial,0.68,mg/kg,12
+Carbofuran,Coarse,Natural Area,1.2,mg/kg,12
+Carbofuran,Coarse,Agricultural,0.089,mg/kg,12
+Carbofuran,Coarse,Residential/Parkland,1.2,mg/kg,12
+Carbofuran,Coarse,Commercial,1.2,mg/kg,12
+Carbofuran,Coarse,Industrial,1.2,mg/kg,12
+Chlorothalonil,Fine,Natural Area,0.0085,mg/kg,
+Chlorothalonil,Fine,Agricultural,0.0085,mg/kg,
+Chlorothalonil,Fine,Residential/Parkland,0.0085,mg/kg,
+Chlorothalonil,Fine,Commercial,0.0085,mg/kg,
+Chlorothalonil,Fine,Industrial,0.0085,mg/kg,
+Chlorothalonil,Coarse,Natural Area,0.010,mg/kg,
+Chlorothalonil,Coarse,Agricultural,0.010,mg/kg,
+Chlorothalonil,Coarse,Residential/Parkland,0.010,mg/kg,
+Chlorothalonil,Coarse,Commercial,0.010,mg/kg,
+Chlorothalonil,Coarse,Industrial,0.010,mg/kg,
+Chlorpyrifos,Fine,Natural Area,49,mg/kg,12
+Chlorpyrifos,Fine,Agricultural,3.2,mg/kg,12
+Chlorpyrifos,Fine,Residential/Parkland,49,mg/kg,12
+Chlorpyrifos,Fine,Commercial,49,mg/kg,12
+Chlorpyrifos,Fine,Industrial,49,mg/kg,12
+Chlorpyrifos,Coarse,Natural Area,95,mg/kg,12
+Chlorpyrifos,Coarse,Agricultural,3.8,mg/kg,12
+Chlorpyrifos,Coarse,Residential/Parkland,95,mg/kg,12
+Chlorpyrifos,Coarse,Commercial,95,mg/kg,12
+Chlorpyrifos,Coarse,Industrial,95,mg/kg,12
+Cyanazine,Fine,Natural Area,0.12,mg/kg,"12, 13"
+Cyanazine,Fine,Agricultural,0.029,mg/kg,"12, 13"
+Cyanazine,Fine,Residential/Parkland,0.12,mg/kg,"12, 13"
+Cyanazine,Fine,Commercial,0.12,mg/kg,"12, 13"
+Cyanazine,Fine,Industrial,0.12,mg/kg,"12, 13"
+Cyanazine,Coarse,Natural Area,0.21,mg/kg,"12, 13"
+Cyanazine,Coarse,Agricultural,0.032,mg/kg,"12, 13"
+Cyanazine,Coarse,Residential/Parkland,0.21,mg/kg,"12, 13"
+Cyanazine,Coarse,Commercial,0.21,mg/kg,"12, 13"
+Cyanazine,Coarse,Industrial,0.21,mg/kg,"12, 13"
+"2,4-D",Fine,Natural Area,0.43,mg/kg,12
+"2,4-D",Fine,Agricultural,0.10,mg/kg,12
+"2,4-D",Fine,Residential/Parkland,0.43,mg/kg,12
+"2,4-D",Fine,Commercial,0.43,mg/kg,12
+"2,4-D",Fine,Industrial,0.43,mg/kg,12
+"2,4-D",Coarse,Natural Area,0.67,mg/kg,12
+"2,4-D",Coarse,Agricultural,0.10,mg/kg,12
+"2,4-D",Coarse,Residential/Parkland,0.67,mg/kg,12
+"2,4-D",Coarse,Commercial,0.67,mg/kg,12
+"2,4-D",Coarse,Industrial,0.67,mg/kg,12
+DDT,Fine,Natural Area,0.7,mg/kg,5
+DDT,Fine,Agricultural,0.7,mg/kg,5
+DDT,Fine,Residential/Parkland,12,mg/kg,5
+DDT,Fine,Commercial,12,mg/kg,5
+DDT,Fine,Industrial,12,mg/kg,5
+DDT,Coarse,Natural Area,0.7,mg/kg,5
+DDT,Coarse,Agricultural,0.7,mg/kg,5
+DDT,Coarse,Residential/Parkland,12,mg/kg,5
+DDT,Coarse,Commercial,12,mg/kg,5
+DDT,Coarse,Industrial,12,mg/kg,5
+Diazinon,Fine,Natural Area,2.2,mg/kg,12
+Diazinon,Fine,Agricultural,2.2,mg/kg,12
+Diazinon,Fine,Residential/Parkland,2.2,mg/kg,12
+Diazinon,Fine,Commercial,2.2,mg/kg,12
+Diazinon,Fine,Industrial,2.2,mg/kg,12
+Diazinon,Coarse,Natural Area,4.2,mg/kg,12
+Diazinon,Coarse,Agricultural,4.2,mg/kg,12
+Diazinon,Coarse,Residential/Parkland,4.2,mg/kg,12
+Diazinon,Coarse,Commercial,4.2,mg/kg,12
+Diazinon,Coarse,Industrial,4.2,mg/kg,12
+Dicamba,Fine,Natural Area,0.50,mg/kg,"12,13"
+Dicamba,Fine,Agricultural,0.12,mg/kg,"12,13"
+Dicamba,Fine,Residential/Parkland,0.50,mg/kg,"12,13"
+Dicamba,Fine,Commercial,0.50,mg/kg,"12,13"
+Dicamba,Fine,Industrial,0.50,mg/kg,"12,13"
+Dicamba,Coarse,Natural Area,0.79,mg/kg,"12,13"
+Dicamba,Coarse,Agricultural,0.12,mg/kg,"12,13"
+Dicamba,Coarse,Residential/Parkland,0.79,mg/kg,"12,13"
+Dicamba,Coarse,Commercial,0.79,mg/kg,"12,13"
+Dicamba,Coarse,Industrial,0.79,mg/kg,"12,13"
+Diclofop-methyl,Fine,Natural Area,22,mg/kg,
+Diclofop-methyl,Fine,Agricultural,34,mg/kg,
+Diclofop-methyl,Fine,Residential/Parkland,160,mg/kg,
+Diclofop-methyl,Fine,Commercial,NGR,mg/kg,
+Diclofop-methyl,Fine,Industrial,0.079,mg/kg,
+Diclofop-methyl,Coarse,Natural Area,2.4,mg/kg,
+Diclofop-methyl,Coarse,Agricultural,0.095,mg/kg,
+Diclofop-methyl,Coarse,Residential/Parkland,2.4,mg/kg,
+Diclofop-methyl,Coarse,Commercial,2.4,mg/kg,
+Diclofop-methyl,Coarse,Industrial,2.4,mg/kg,
+Dieldrin,Fine,Natural Area,0.59,mg/kg,
+Dieldrin,Fine,Agricultural,0.59,mg/kg,
+Dieldrin,Fine,Residential/Parkland,0.59,mg/kg,
+Dieldrin,Fine,Commercial,0.59,mg/kg,
+Dieldrin,Fine,Industrial,0.59,mg/kg,
+Dieldrin,Coarse,Natural Area,1.1,mg/kg,
+Dieldrin,Coarse,Agricultural,1.1,mg/kg,
+Dieldrin,Coarse,Residential/Parkland,1.1,mg/kg,
+Dieldrin,Coarse,Commercial,1.1,mg/kg,
+Dieldrin,Coarse,Industrial,1.1,mg/kg,
+Dimethoate,Fine,Natural Area,0.0058,mg/kg,
+Dimethoate,Fine,Agricultural,0.0028,mg/kg,
+Dimethoate,Fine,Residential/Parkland,0.0058,mg/kg,
+Dimethoate,Fine,Commercial,0.0058,mg/kg,
+Dimethoate,Fine,Industrial,0.0058,mg/kg,
+Dimethoate,Coarse,Natural Area,0.0055,mg/kg,
+Dimethoate,Coarse,Agricultural,0.0027,mg/kg,
+Dimethoate,Coarse,Residential/Parkland,0.0055,mg/kg,
+Dimethoate,Coarse,Commercial,0.0055,mg/kg,
+Dimethoate,Coarse,Industrial,0.0055,mg/kg,
+Dinoseb,Fine,Natural Area,2.8,mg/kg,12
+Dinoseb,Fine,Agricultural,1.4,mg/kg,12
+Dinoseb,Fine,Residential/Parkland,2.8,mg/kg,12
+Dinoseb,Fine,Commercial,2.8,mg/kg,12
+Dinoseb,Fine,Industrial,2.8,mg/kg,12
+Dinoseb,Coarse,Natural Area,5.5,mg/kg,12
+Dinoseb,Coarse,Agricultural,1.7,mg/kg,12
+Dinoseb,Coarse,Residential/Parkland,5.5,mg/kg,12
+Dinoseb,Coarse,Commercial,5.5,mg/kg,12
+Dinoseb,Coarse,Industrial,5.5,mg/kg,12
+Diquat,Fine,Natural Area,11,mg/kg,
+Diquat,Fine,Agricultural,11,mg/kg,
+Diquat,Fine,Residential/Parkland,11,mg/kg,
+Diquat,Fine,Commercial,11,mg/kg,
+Diquat,Fine,Industrial,11,mg/kg,
+Diquat,Coarse,Natural Area,21,mg/kg,
+Diquat,Coarse,Agricultural,21,mg/kg,
+Diquat,Coarse,Residential/Parkland,21,mg/kg,
+Diquat,Coarse,Commercial,21,mg/kg,
+Diquat,Coarse,Industrial,21,mg/kg,
+Diuron,Fine,Natural Area,1.9,mg/kg,
+Diuron,Fine,Agricultural,1.9,mg/kg,
+Diuron,Fine,Residential/Parkland,1.9,mg/kg,
+Diuron,Fine,Commercial,1.9,mg/kg,
+Diuron,Fine,Industrial,1.9,mg/kg,
+Diuron,Coarse,Natural Area,3.5,mg/kg,
+Diuron,Coarse,Agricultural,3.5,mg/kg,
+Diuron,Coarse,Residential/Parkland,3.5,mg/kg,
+Diuron,Coarse,Commercial,3.5,mg/kg,
+Diuron,Coarse,Industrial,3.5,mg/kg,
+Endosulfan,Fine,Natural Area,0.80,mg/kg,
+Endosulfan,Fine,Agricultural,0.80,mg/kg,
+Endosulfan,Fine,Residential/Parkland,0.80,mg/kg,
+Endosulfan,Fine,Commercial,0.80,mg/kg,
+Endosulfan,Fine,Industrial,0.80,mg/kg,
+Endosulfan,Coarse,Natural Area,0.0016,mg/kg,
+Endosulfan,Coarse,Agricultural,0.0016,mg/kg,
+Endosulfan,Coarse,Residential/Parkland,0.0016,mg/kg,
+Endosulfan,Coarse,Commercial,0.0016,mg/kg,
+Endosulfan,Coarse,Industrial,0.0016,mg/kg,
+Endrin,Fine,Natural Area,2.4,mg/kg,
+Endrin,Fine,Agricultural,2.4,mg/kg,
+Endrin,Fine,Residential/Parkland,2.4,mg/kg,
+Endrin,Fine,Commercial,2.4,mg/kg,
+Endrin,Fine,Industrial,2.4,mg/kg,
+Endrin,Coarse,Natural Area,4.7,mg/kg,
+Endrin,Coarse,Agricultural,4.7,mg/kg,
+Endrin,Coarse,Residential/Parkland,4.7,mg/kg,
+Endrin,Coarse,Commercial,4.7,mg/kg,
+Endrin,Coarse,Industrial,4.7,mg/kg,
+Glyphosate,Fine,Natural Area,0.054,mg/kg,
+Glyphosate,Fine,Agricultural,0.054,mg/kg,
+Glyphosate,Fine,Residential/Parkland,0.054,mg/kg,
+Glyphosate,Fine,Commercial,0.054,mg/kg,
+Glyphosate,Fine,Industrial,0.054,mg/kg,
+Glyphosate,Coarse,Natural Area,0.049,mg/kg,
+Glyphosate,Coarse,Agricultural,0.049,mg/kg,
+Glyphosate,Coarse,Residential/Parkland,0.049,mg/kg,
+Glyphosate,Coarse,Commercial,0.049,mg/kg,
+Glyphosate,Coarse,Industrial,0.049,mg/kg,
+Heptachlor epoxide,Fine,Natural Area,0.039,mg/kg,
+Heptachlor epoxide,Fine,Agricultural,0.039,mg/kg,
+Heptachlor epoxide,Fine,Residential/Parkland,0.039,mg/kg,
+Heptachlor epoxide,Fine,Commercial,0.039,mg/kg,
+Heptachlor epoxide,Fine,Industrial,0.039,mg/kg,
+Heptachlor epoxide,Coarse,Natural Area,0.076,mg/kg,
+Heptachlor epoxide,Coarse,Agricultural,0.010,mg/kg,
+Heptachlor epoxide,Coarse,Residential/Parkland,0.010,mg/kg,
+Heptachlor epoxide,Coarse,Commercial,0.076,mg/kg,
+Heptachlor epoxide,Coarse,Industrial,0.076,mg/kg,
+Lindane,Fine,Natural Area,0.31,mg/kg,12
+Lindane,Fine,Agricultural,0.11,mg/kg,12
+Lindane,Fine,Residential/Parkland,0.31,mg/kg,12
+Lindane,Fine,Commercial,0.31,mg/kg,12
+Lindane,Fine,Industrial,0.31,mg/kg,12
+Lindane,Coarse,Natural Area,0.60,mg/kg,12
+Lindane,Coarse,Agricultural,0.13,mg/kg,12
+Lindane,Coarse,Residential/Parkland,0.60,mg/kg,12
+Lindane,Coarse,Commercial,0.60,mg/kg,12
+Lindane,Coarse,Industrial,0.60,mg/kg,12
+Linuron,Fine,Natural Area,0.051,mg/kg,13
+Linuron,Fine,Agricultural,0.051,mg/kg,13
+Linuron,Fine,Residential/Parkland,0.051,mg/kg,13
+Linuron,Fine,Commercial,0.051,mg/kg,13
+Linuron,Fine,Industrial,0.051,mg/kg,13
+Linuron,Coarse,Natural Area,0.059,mg/kg,13
+Linuron,Coarse,Agricultural,0.059,mg/kg,13
+Linuron,Coarse,Residential/Parkland,0.059,mg/kg,13
+Linuron,Coarse,Commercial,0.059,mg/kg,13
+Linuron,Coarse,Industrial,0.059,mg/kg,13
+Malathion,Fine,Natural Area,0.82,mg/kg,12
+Malathion,Fine,Agricultural,0.82,mg/kg,12
+Malathion,Fine,Residential/Parkland,0.82,mg/kg,12
+Malathion,Fine,Commercial,0.82,mg/kg,12
+Malathion,Fine,Industrial,0.82,mg/kg,12
+Malathion,Coarse,Natural Area,1.3,mg/kg,12
+Malathion,Coarse,Agricultural,1.3,mg/kg,12
+Malathion,Coarse,Residential/Parkland,1.3,mg/kg,12
+Malathion,Coarse,Commercial,1.3,mg/kg,12
+Malathion,Coarse,Industrial,1.3,mg/kg,12
+MCPA,Fine,Natural Area,0.42,mg/kg,"12,13"
+MCPA,Fine,Agricultural,0.026,mg/kg,"12,13"
+MCPA,Fine,Residential/Parkland,0.42,mg/kg,"12,13"
+MCPA,Fine,Commercial,0.42,mg/kg,"12,13"
+MCPA,Fine,Industrial,0.42,mg/kg,"12,13"
+MCPA,Coarse,Natural Area,0.66,mg/kg,"12,13"
+MCPA,Coarse,Agricultural,0.025,mg/kg,"12,13"
+MCPA,Coarse,Residential/Parkland,0.66,mg/kg,"12,13"
+MCPA,Coarse,Commercial,0.66,mg/kg,"12,13"
+MCPA,Coarse,Industrial,0.66,mg/kg,"12,13"
+Methoxychlor,Fine,Natural Area,3500,mg/kg,
+Methoxychlor,Fine,Agricultural,3500,mg/kg,
+Methoxychlor,Fine,Residential/Parkland,5300,mg/kg,
+Methoxychlor,Fine,Commercial,50000,mg/kg,
+Methoxychlor,Fine,Industrial,NGR,mg/kg,
+Methoxychlor,Coarse,Natural Area,0.32,mg/kg,
+Methoxychlor,Coarse,Agricultural,0.32,mg/kg,
+Methoxychlor,Coarse,Residential/Parkland,0.32,mg/kg,
+Methoxychlor,Coarse,Commercial,0.32,mg/kg,
+Methoxychlor,Coarse,Industrial,0.32,mg/kg,
+Metolachlor,Fine,Natural Area,0.048,mg/kg,
+Metolachlor,Fine,Agricultural,0.048,mg/kg,
+Metolachlor,Fine,Residential/Parkland,0.048,mg/kg,
+Metolachlor,Fine,Commercial,0.048,mg/kg,
+Metolachlor,Fine,Industrial,0.048,mg/kg,
+Metolachlor,Coarse,Natural Area,0.055,mg/kg,
+Metolachlor,Coarse,Agricultural,0.055,mg/kg,
+Metolachlor,Coarse,Residential/Parkland,0.055,mg/kg,
+Metolachlor,Coarse,Commercial,0.055,mg/kg,
+Metolachlor,Coarse,Industrial,0.055,mg/kg,
+Metribuzin,Fine,Natural Area,0.024,mg/kg,
+Metribuzin,Fine,Agricultural,0.012,mg/kg,
+Metribuzin,Fine,Residential/Parkland,0.024,mg/kg,
+Metribuzin,Fine,Commercial,0.024,mg/kg,
+Metribuzin,Fine,Industrial,0.024,mg/kg,
+Metribuzin,Coarse,Natural Area,0.028,mg/kg,
+Metribuzin,Coarse,Agricultural,0.014,mg/kg,
+Metribuzin,Coarse,Residential/Parkland,0.028,mg/kg,
+Metribuzin,Coarse,Commercial,0.028,mg/kg,
+Metribuzin,Coarse,Industrial,0.028,mg/kg,
+Paraquat (as dichloride),Fine,Natural Area,1.1,mg/kg,
+Paraquat (as dichloride),Fine,Agricultural,1.1,mg/kg,
+Paraquat (as dichloride),Fine,Residential/Parkland,1.1,mg/kg,
+Paraquat (as dichloride),Fine,Commercial,1.1,mg/kg,
+Paraquat (as dichloride),Fine,Industrial,1.1,mg/kg,
+Paraquat (as dichloride),Coarse,Natural Area,2.2,mg/kg,
+Paraquat (as dichloride),Coarse,Agricultural,2.2,mg/kg,
+Paraquat (as dichloride),Coarse,Residential/Parkland,2.2,mg/kg,
+Paraquat (as dichloride),Coarse,Commercial,2.2,mg/kg,
+Paraquat (as dichloride),Coarse,Industrial,2.2,mg/kg,
+Parathion,Fine,Natural Area,7.2,mg/kg,12
+Parathion,Fine,Agricultural,7.2,mg/kg,12
+Parathion,Fine,Residential/Parkland,7.2,mg/kg,12
+Parathion,Fine,Commercial,7.2,mg/kg,12
+Parathion,Fine,Industrial,7.2,mg/kg,12
+Parathion,Coarse,Natural Area,14,mg/kg,12
+Parathion,Coarse,Agricultural,14,mg/kg,12
+Parathion,Coarse,Residential/Parkland,14,mg/kg,12
+Parathion,Coarse,Commercial,14,mg/kg,12
+Parathion,Coarse,Industrial,14,mg/kg,12
+Phorate,Fine,Natural Area,0.075,mg/kg,
+Phorate,Fine,Agricultural,0.075,mg/kg,
+Phorate,Fine,Residential/Parkland,0.075,mg/kg,
+Phorate,Fine,Commercial,0.075,mg/kg,
+Phorate,Fine,Industrial,0.075,mg/kg,
+Phorate,Coarse,Natural Area,0.14,mg/kg,
+Phorate,Coarse,Agricultural,0.14,mg/kg,
+Phorate,Coarse,Residential/Parkland,0.14,mg/kg,
+Phorate,Coarse,Commercial,0.14,mg/kg,
+Phorate,Coarse,Industrial,0.14,mg/kg,
+Picloram,Fine,Natural Area,0.024,mg/kg,
+Picloram,Fine,Agricultural,0.024,mg/kg,
+Picloram,Fine,Residential/Parkland,0.024,mg/kg,
+Picloram,Fine,Commercial,0.024,mg/kg,
+Picloram,Fine,Industrial,0.024,mg/kg,
+Picloram,Coarse,Natural Area,0.022,mg/kg,
+Picloram,Coarse,Agricultural,0.022,mg/kg,
+Picloram,Coarse,Residential/Parkland,0.022,mg/kg,
+Picloram,Coarse,Commercial,0.022,mg/kg,
+Picloram,Coarse,Industrial,0.022,mg/kg,
+Simazine,Fine,Natural Area,0.033,mg/kg,13
+Simazine,Fine,Agricultural,0.033,mg/kg,13
+Simazine,Fine,Residential/Parkland,0.033,mg/kg,13
+Simazine,Fine,Commercial,0.033,mg/kg,13
+Simazine,Fine,Industrial,0.033,mg/kg,13
+Simazine,Coarse,Natural Area,0.038,mg/kg,13
+Simazine,Coarse,Agricultural,0.038,mg/kg,13
+Simazine,Coarse,Residential/Parkland,0.038,mg/kg,13
+Simazine,Coarse,Commercial,0.038,mg/kg,13
+Simazine,Coarse,Industrial,0.038,mg/kg,13
+Tebuthiuron,Fine,Natural Area,0.046,mg/kg,"12,13"
+Tebuthiuron,Fine,Agricultural,0.046,mg/kg,"12,13"
+Tebuthiuron,Fine,Residential/Parkland,0.046,mg/kg,"12,13"
+Tebuthiuron,Fine,Commercial,0.60,mg/kg,"12,13"
+Tebuthiuron,Fine,Industrial,0.60,mg/kg,"12,13"
+Tebuthiuron,Coarse,Natural Area,0.046,mg/kg,"12,13"
+Tebuthiuron,Coarse,Agricultural,0.046,mg/kg,"12,13"
+Tebuthiuron,Coarse,Residential/Parkland,0.046,mg/kg,"12,13"
+Tebuthiuron,Coarse,Commercial,0.60,mg/kg,"12,13"
+Tebuthiuron,Coarse,Industrial,0.60,mg/kg,"12,13"
+Terbufos,Fine,Natural Area,0.080,mg/kg,
+Terbufos,Fine,Agricultural,0.080,mg/kg,
+Terbufos,Fine,Residential/Parkland,0.080,mg/kg,
+Terbufos,Fine,Commercial,0.080,mg/kg,
+Terbufos,Fine,Industrial,0.080,mg/kg,
+Terbufos,Coarse,Natural Area,0.15,mg/kg,
+Terbufos,Coarse,Agricultural,0.15,mg/kg,
+Terbufos,Coarse,Residential/Parkland,0.15,mg/kg,
+Terbufos,Coarse,Commercial,0.15,mg/kg,
+Terbufos,Coarse,Industrial,0.15,mg/kg,
+Toxaphene,Fine,Natural Area,3.3,mg/kg,
+Toxaphene,Fine,Agricultural,3.3,mg/kg,
+Toxaphene,Fine,Residential/Parkland,3.3,mg/kg,
+Toxaphene,Fine,Commercial,3.3,mg/kg,
+Toxaphene,Fine,Industrial,3.3,mg/kg,
+Toxaphene,Coarse,Natural Area,6.3,mg/kg,
+Toxaphene,Coarse,Agricultural,4.8,mg/kg,
+Toxaphene,Coarse,Residential/Parkland,4.8,mg/kg,
+Toxaphene,Coarse,Commercial,6.3,mg/kg,
+Toxaphene,Coarse,Industrial,6.3,mg/kg,
+Triallate,Fine,Natural Area,0.0077,mg/kg,
+Triallate,Fine,Agricultural,0.0077,mg/kg,
+Triallate,Fine,Residential/Parkland,0.0077,mg/kg,
+Triallate,Fine,Commercial,0.0077,mg/kg,
+Triallate,Fine,Industrial,0.0077,mg/kg,
+Triallate,Coarse,Natural Area,0.0092,mg/kg,
+Triallate,Coarse,Agricultural,0.0092,mg/kg,
+Triallate,Coarse,Residential/Parkland,0.0092,mg/kg,
+Triallate,Coarse,Commercial,0.0092,mg/kg,
+Triallate,Coarse,Industrial,0.0092,mg/kg,
+Trifluralin,Fine,Natural Area,0.22,mg/kg,
+Trifluralin,Fine,Agricultural,0.22,mg/kg,
+Trifluralin,Fine,Residential/Parkland,0.22,mg/kg,
+Trifluralin,Fine,Commercial,0.22,mg/kg,
+Trifluralin,Fine,Industrial,0.22,mg/kg,
+Trifluralin,Coarse,Natural Area,0.045,mg/kg,
+Trifluralin,Coarse,Agricultural,0.045,mg/kg,
+Trifluralin,Coarse,Residential/Parkland,0.045,mg/kg,
+Trifluralin,Coarse,Commercial,0.045,mg/kg,
+Trifluralin,Coarse,Industrial,0.045,mg/kg,
+Aniline,Fine,Natural Area,0.36,mg/kg,12
+Aniline,Fine,Agricultural,0.36,mg/kg,12
+Aniline,Fine,Residential/Parkland,0.36,mg/kg,12
+Aniline,Fine,Commercial,0.36,mg/kg,12
+Aniline,Fine,Industrial,0.36,mg/kg,12
+Aniline,Coarse,Natural Area,0.60,mg/kg,12
+Aniline,Coarse,Agricultural,0.60,mg/kg,12
+Aniline,Coarse,Residential/Parkland,0.60,mg/kg,12
+Aniline,Coarse,Commercial,0.60,mg/kg,12
+Aniline,Coarse,Industrial,0.60,mg/kg,12
+Dibutyl phthalate,Fine,Natural Area,0.54,mg/kg,
+Dibutyl phthalate,Fine,Agricultural,0.54,mg/kg,
+Dibutyl phthalate,Fine,Residential/Parkland,0.54,mg/kg,
+Dibutyl phthalate,Fine,Commercial,0.54,mg/kg,
+Dibutyl phthalate,Fine,Industrial,0.54,mg/kg,
+Dibutyl phthalate,Coarse,Natural Area,0.65,mg/kg,
+Dibutyl phthalate,Coarse,Agricultural,0.65,mg/kg,
+Dibutyl phthalate,Coarse,Residential/Parkland,0.65,mg/kg,
+Dibutyl phthalate,Coarse,Commercial,0.65,mg/kg,
+Dibutyl phthalate,Coarse,Industrial,0.65,mg/kg,
+Dichlorobenzidine,Fine,Natural Area,4.2,mg/kg,
+Dichlorobenzidine,Fine,Agricultural,4.2,mg/kg,
+Dichlorobenzidine,Fine,Residential/Parkland,4.2,mg/kg,
+Dichlorobenzidine,Fine,Commercial,4.2,mg/kg,
+Dichlorobenzidine,Fine,Industrial,4.2,mg/kg,
+Dichlorobenzidine,Coarse,Natural Area,8.1,mg/kg,
+Dichlorobenzidine,Coarse,Agricultural,8.1,mg/kg,
+Dichlorobenzidine,Coarse,Residential/Parkland,8.1,mg/kg,
+Dichlorobenzidine,Coarse,Commercial,8.1,mg/kg,
+Dichlorobenzidine,Coarse,Industrial,8.1,mg/kg,
+Diethanolamine,Fine,Natural Area,2.0,mg/kg,14
+Diethanolamine,Fine,Agricultural,2.0,mg/kg,14
+Diethanolamine,Fine,Residential/Parkland,2.0,mg/kg,14
+Diethanolamine,Fine,Commercial,2.0,mg/kg,14
+Diethanolamine,Fine,Industrial,2.0,mg/kg,14
+Diethanolamine,Coarse,Natural Area,3.5,mg/kg,14
+Diethanolamine,Coarse,Agricultural,3.5,mg/kg,14
+Diethanolamine,Coarse,Residential/Parkland,3.5,mg/kg,14
+Diethanolamine,Coarse,Commercial,3.5,mg/kg,14
+Diethanolamine,Coarse,Industrial,3.5,mg/kg,14
+Diethylene glycol,Fine,Natural Area,10,mg/kg,
+Diethylene glycol,Fine,Agricultural,10,mg/kg,
+Diethylene glycol,Fine,Residential/Parkland,10,mg/kg,
+Diethylene glycol,Fine,Commercial,10,mg/kg,
+Diethylene glycol,Fine,Industrial,10,mg/kg,
+Diethylene glycol,Coarse,Natural Area,15,mg/kg,
+Diethylene glycol,Coarse,Agricultural,15,mg/kg,
+Diethylene glycol,Coarse,Residential/Parkland,15,mg/kg,
+Diethylene glycol,Coarse,Commercial,15,mg/kg,
+Diethylene glycol,Coarse,Industrial,15,mg/kg,
+Diisopropanolamine,Fine,Natural Area,14,mg/kg,5
+Diisopropanolamine,Fine,Agricultural,14,mg/kg,5
+Diisopropanolamine,Fine,Residential/Parkland,14,mg/kg,5
+Diisopropanolamine,Fine,Commercial,14,mg/kg,5
+Diisopropanolamine,Fine,Industrial,14,mg/kg,5
+Diisopropanolamine,Coarse,Natural Area,17,mg/kg,5
+Diisopropanolamine,Coarse,Agricultural,17,mg/kg,5
+Diisopropanolamine,Coarse,Residential/Parkland,17,mg/kg,5
+Diisopropanolamine,Coarse,Commercial,17,mg/kg,5
+Diisopropanolamine,Coarse,Industrial,17,mg/kg,5
+Ethylene glycol,Fine,Natural Area,60,mg/kg,5
+Ethylene glycol,Fine,Agricultural,60,mg/kg,5
+Ethylene glycol,Fine,Residential/Parkland,60,mg/kg,5
+Ethylene glycol,Fine,Commercial,60,mg/kg,5
+Ethylene glycol,Fine,Industrial,60,mg/kg,5
+Ethylene glycol,Coarse,Natural Area,62,mg/kg,5
+Ethylene glycol,Coarse,Agricultural,62,mg/kg,5
+Ethylene glycol,Coarse,Residential/Parkland,62,mg/kg,5
+Ethylene glycol,Coarse,Commercial,62,mg/kg,5
+Ethylene glycol,Coarse,Industrial,62,mg/kg,5
+Hexachlorobutadiene,Fine,Natural Area,0.026,mg/kg,
+Hexachlorobutadiene,Fine,Agricultural,0.026,mg/kg,
+Hexachlorobutadiene,Fine,Residential/Parkland,0.026,mg/kg,
+Hexachlorobutadiene,Fine,Commercial,0.026,mg/kg,
+Hexachlorobutadiene,Fine,Industrial,0.026,mg/kg,
+Hexachlorobutadiene,Coarse,Natural Area,0.031,mg/kg,
+Hexachlorobutadiene,Coarse,Agricultural,0.0067,mg/kg,
+Hexachlorobutadiene,Coarse,Residential/Parkland,0.0067,mg/kg,
+Hexachlorobutadiene,Coarse,Commercial,0.031,mg/kg,
+Hexachlorobutadiene,Coarse,Industrial,0.031,mg/kg,
+Methanol,Fine,Natural Area,37,mg/kg,
+Methanol,Fine,Agricultural,37,mg/kg,
+Methanol,Fine,Residential/Parkland,37,mg/kg,
+Methanol,Fine,Commercial,37,mg/kg,
+Methanol,Fine,Industrial,37,mg/kg,
+Methanol,Coarse,Natural Area,11,mg/kg,
+Methanol,Coarse,Agricultural,11,mg/kg,
+Methanol,Coarse,Residential/Parkland,11,mg/kg,
+Methanol,Coarse,Commercial,11,mg/kg,
+Methanol,Coarse,Industrial,11,mg/kg,
+Methylmethacrylate,Fine,Natural Area,1.3,mg/kg,
+Methylmethacrylate,Fine,Agricultural,1.3,mg/kg,
+Methylmethacrylate,Fine,Residential/Parkland,1.3,mg/kg,
+Methylmethacrylate,Fine,Commercial,1.3,mg/kg,
+Methylmethacrylate,Fine,Industrial,1.3,mg/kg,
+Methylmethacrylate,Coarse,Natural Area,1.8,mg/kg,
+Methylmethacrylate,Coarse,Agricultural,0.10,mg/kg,
+Methylmethacrylate,Coarse,Residential/Parkland,0.10,mg/kg,
+Methylmethacrylate,Coarse,Commercial,1.3,mg/kg,
+Methylmethacrylate,Coarse,Industrial,1.3,mg/kg,
+Monoethanolamine,Fine,Natural Area,20,mg/kg,14
+Monoethanolamine,Fine,Agricultural,20,mg/kg,14
+Monoethanolamine,Fine,Residential/Parkland,20,mg/kg,14
+Monoethanolamine,Fine,Commercial,20,mg/kg,14
+Monoethanolamine,Fine,Industrial,20,mg/kg,14
+Monoethanolamine,Coarse,Natural Area,10,mg/kg,14
+Monoethanolamine,Coarse,Agricultural,10,mg/kg,14
+Monoethanolamine,Coarse,Residential/Parkland,10,mg/kg,14
+Monoethanolamine,Coarse,Commercial,10,mg/kg,14
+Monoethanolamine,Coarse,Industrial,10,mg/kg,14
+MTBE,Fine,Natural Area,0.044,mg/kg,
+MTBE,Fine,Agricultural,0.044,mg/kg,
+MTBE,Fine,Residential/Parkland,0.044,mg/kg,
+MTBE,Fine,Commercial,0.044,mg/kg,
+MTBE,Fine,Industrial,0.044,mg/kg,
+MTBE,Coarse,Natural Area,0.062,mg/kg,
+MTBE,Coarse,Agricultural,0.046,mg/kg,
+MTBE,Coarse,Residential/Parkland,0.046,mg/kg,
+MTBE,Coarse,Commercial,0.062,mg/kg,
+MTBE,Coarse,Industrial,0.062,mg/kg,
+Nonylphenol + ethoxylates,Fine,Natural Area,5.7,mg/kg,5
+Nonylphenol + ethoxylates,Fine,Agricultural,5.7,mg/kg,5
+Nonylphenol + ethoxylates,Fine,Residential/Parkland,5.7,mg/kg,5
+Nonylphenol + ethoxylates,Fine,Commercial,14,mg/kg,5
+Nonylphenol + ethoxylates,Fine,Industrial,14,mg/kg,5
+Nonylphenol + ethoxylates,Coarse,Natural Area,5.7,mg/kg,5
+Nonylphenol + ethoxylates,Coarse,Agricultural,5.7,mg/kg,5
+Nonylphenol + ethoxylates,Coarse,Residential/Parkland,5.7,mg/kg,5
+Nonylphenol + ethoxylates,Coarse,Commercial,14,mg/kg,5
+Nonylphenol + ethoxylates,Coarse,Industrial,14,mg/kg,5
+Phenol,Fine,Natural Area,0.0028,mg/kg,"5, 17"
+Phenol,Fine,Agricultural,0.0014,mg/kg,"5, 17"
+Phenol,Fine,Residential/Parkland,0.0028,mg/kg,"5, 17"
+Phenol,Fine,Commercial,0.0028,mg/kg,"5, 17"
+Phenol,Fine,Industrial,0.0028,mg/kg,"5, 17"
+Phenol,Coarse,Natural Area,0.0024,mg/kg,"5, 17"
+Phenol,Coarse,Agricultural,0.0012,mg/kg,"5, 17"
+Phenol,Coarse,Residential/Parkland,0.0024,mg/kg,"5, 17"
+Phenol,Coarse,Commercial,0.0024,mg/kg,"5, 17"
+Phenol,Coarse,Industrial,0.0024,mg/kg,"5, 17"
+Sulfolane,Fine,Natural Area,0.18,mg/kg,5
+Sulfolane,Fine,Agricultural,0.18,mg/kg,5
+Sulfolane,Fine,Residential/Parkland,0.18,mg/kg,5
+Sulfolane,Fine,Commercial,0.18,mg/kg,5
+Sulfolane,Fine,Industrial,0.18,mg/kg,5
+Sulfolane,Coarse,Natural Area,0.21,mg/kg,5
+Sulfolane,Coarse,Agricultural,0.21,mg/kg,5
+Sulfolane,Coarse,Residential/Parkland,0.21,mg/kg,5
+Sulfolane,Coarse,Commercial,0.21,mg/kg,5
+Sulfolane,Coarse,Industrial,0.21,mg/kg,5
+Triethylene glycol,Fine,Natural Area,100,mg/kg,
+Triethylene glycol,Fine,Agricultural,100,mg/kg,
+Triethylene glycol,Fine,Residential/Parkland,100,mg/kg,
+Triethylene glycol,Fine,Commercial,100,mg/kg,
+Triethylene glycol,Fine,Industrial,100,mg/kg,
+Triethylene glycol,Coarse,Natural Area,150,mg/kg,
+Triethylene glycol,Coarse,Agricultural,150,mg/kg,
+Triethylene glycol,Coarse,Residential/Parkland,150,mg/kg,
+Triethylene glycol,Coarse,Commercial,150,mg/kg,
+Triethylene glycol,Coarse,Industrial,150,mg/kg,
+Uranium-238 Series (all progeny),Fine,Natural Area,0.3,mg/kg,10
+Uranium-238 Series (all progeny),Fine,Agricultural,0.3,mg/kg,10
+Uranium-238 Series (all progeny),Fine,Residential/Parkland,0.3,mg/kg,10
+Uranium-238 Series (all progeny),Fine,Commercial,0.3,mg/kg,10
+Uranium-238 Series (all progeny),Fine,Industrial,0.3,mg/kg,10
+Uranium-238 Series (all progeny),Coarse,Natural Area,0.3,mg/kg,10
+Uranium-238 Series (all progeny),Coarse,Agricultural,0.3,mg/kg,10
+Uranium-238 Series (all progeny),Coarse,Residential/Parkland,0.3,mg/kg,10
+Uranium-238 Series (all progeny),Coarse,Commercial,0.3,mg/kg,10
+Uranium-238 Series (all progeny),Coarse,Industrial,0.3,mg/kg,10
+"Uranium-238 (238U, 234Th, 234mPa, 234U)",Fine,Natural Area,10,mg/kg,10
+"Uranium-238 (238U, 234Th, 234mPa, 234U)",Fine,Agricultural,10,mg/kg,10
+"Uranium-238 (238U, 234Th, 234mPa, 234U)",Fine,Residential/Parkland,10,mg/kg,10
+"Uranium-238 (238U, 234Th, 234mPa, 234U)",Fine,Commercial,10,mg/kg,10
+"Uranium-238 (238U, 234Th, 234mPa, 234U)",Fine,Industrial,10,mg/kg,10
+"Uranium-238 (238U, 234Th, 234mPa, 234U)",Coarse,Natural Area,10,mg/kg,10
+"Uranium-238 (238U, 234Th, 234mPa, 234U)",Coarse,Agricultural,10,mg/kg,10
+"Uranium-238 (238U, 234Th, 234mPa, 234U)",Coarse,Residential/Parkland,10,mg/kg,10
+"Uranium-238 (238U, 234Th, 234mPa, 234U)",Coarse,Commercial,10,mg/kg,10
+"Uranium-238 (238U, 234Th, 234mPa, 234U)",Coarse,Industrial,10,mg/kg,10
+Thorium-230,Fine,Natural Area,10,mg/kg,10
+Thorium-230,Fine,Agricultural,10,mg/kg,10
+Thorium-230,Fine,Residential/Parkland,10,mg/kg,10
+Thorium-230,Fine,Commercial,10,mg/kg,10
+Thorium-230,Fine,Industrial,10,mg/kg,10
+Thorium-230,Coarse,Natural Area,10,mg/kg,10
+Thorium-230,Coarse,Agricultural,10,mg/kg,10
+Thorium-230,Coarse,Residential/Parkland,10,mg/kg,10
+Thorium-230,Coarse,Commercial,10,mg/kg,10
+Thorium-230,Coarse,Industrial,10,mg/kg,10
+Radium-226   (in equilibrium with its progeny),Fine,Natural Area,0.3,mg/kg,10
+Radium-226   (in equilibrium with its progeny),Fine,Agricultural,0.3,mg/kg,10
+Radium-226   (in equilibrium with its progeny),Fine,Residential/Parkland,0.3,mg/kg,10
+Radium-226   (in equilibrium with its progeny),Fine,Commercial,0.3,mg/kg,10
+Radium-226   (in equilibrium with its progeny),Fine,Industrial,0.3,mg/kg,10
+Radium-226   (in equilibrium with its progeny),Coarse,Natural Area,0.3,mg/kg,10
+Radium-226   (in equilibrium with its progeny),Coarse,Agricultural,0.3,mg/kg,10
+Radium-226   (in equilibrium with its progeny),Coarse,Residential/Parkland,0.3,mg/kg,10
+Radium-226   (in equilibrium with its progeny),Coarse,Commercial,0.3,mg/kg,10
+Radium-226   (in equilibrium with its progeny),Coarse,Industrial,0.3,mg/kg,10
+Lead-210   (in equilibrium with 210Bi and 210Po),Fine,Natural Area,0.3,mg/kg,10
+Lead-210   (in equilibrium with 210Bi and 210Po),Fine,Agricultural,0.3,mg/kg,10
+Lead-210   (in equilibrium with 210Bi and 210Po),Fine,Residential/Parkland,0.3,mg/kg,10
+Lead-210   (in equilibrium with 210Bi and 210Po),Fine,Commercial,0.3,mg/kg,10
+Lead-210   (in equilibrium with 210Bi and 210Po),Fine,Industrial,0.3,mg/kg,10
+Lead-210   (in equilibrium with 210Bi and 210Po),Coarse,Natural Area,0.3,mg/kg,10
+Lead-210   (in equilibrium with 210Bi and 210Po),Coarse,Agricultural,0.3,mg/kg,10
+Lead-210   (in equilibrium with 210Bi and 210Po),Coarse,Residential/Parkland,0.3,mg/kg,10
+Lead-210   (in equilibrium with 210Bi and 210Po),Coarse,Commercial,0.3,mg/kg,10
+Lead-210   (in equilibrium with 210Bi and 210Po),Coarse,Industrial,0.3,mg/kg,10
+Thorium-232 Series (all progeny),Fine,Natural Area,0.3,mg/kg,10
+Thorium-232 Series (all progeny),Fine,Agricultural,0.3,mg/kg,10
+Thorium-232 Series (all progeny),Fine,Residential/Parkland,0.3,mg/kg,10
+Thorium-232 Series (all progeny),Fine,Commercial,0.3,mg/kg,10
+Thorium-232 Series (all progeny),Fine,Industrial,0.3,mg/kg,10
+Thorium-232 Series (all progeny),Coarse,Natural Area,0.3,mg/kg,10
+Thorium-232 Series (all progeny),Coarse,Agricultural,0.3,mg/kg,10
+Thorium-232 Series (all progeny),Coarse,Residential/Parkland,0.3,mg/kg,10
+Thorium-232 Series (all progeny),Coarse,Commercial,0.3,mg/kg,10
+Thorium-232 Series (all progeny),Coarse,Industrial,0.3,mg/kg,10
+Radium-228 (in equilibrium with 228Ac),Fine,Natural Area,0.3,mg/kg,10
+Radium-228 (in equilibrium with 228Ac),Fine,Agricultural,0.3,mg/kg,10
+Radium-228 (in equilibrium with 228Ac),Fine,Residential/Parkland,0.3,mg/kg,10
+Radium-228 (in equilibrium with 228Ac),Fine,Commercial,0.3,mg/kg,10
+Radium-228 (in equilibrium with 228Ac),Fine,Industrial,0.3,mg/kg,10
+Radium-228 (in equilibrium with 228Ac),Coarse,Natural Area,0.3,mg/kg,10
+Radium-228 (in equilibrium with 228Ac),Coarse,Agricultural,0.3,mg/kg,10
+Radium-228 (in equilibrium with 228Ac),Coarse,Residential/Parkland,0.3,mg/kg,10
+Radium-228 (in equilibrium with 228Ac),Coarse,Commercial,0.3,mg/kg,10
+Radium-228 (in equilibrium with 228Ac),Coarse,Industrial,0.3,mg/kg,10
+Thorium-228   (in equilibrium with its progeny),Fine,Natural Area,0.3,mg/kg,10
+Thorium-228   (in equilibrium with its progeny),Fine,Agricultural,0.3,mg/kg,10
+Thorium-228   (in equilibrium with its progeny),Fine,Residential/Parkland,0.3,mg/kg,10
+Thorium-228   (in equilibrium with its progeny),Fine,Commercial,0.3,mg/kg,10
+Thorium-228   (in equilibrium with its progeny),Fine,Industrial,0.3,mg/kg,10
+Thorium-228   (in equilibrium with its progeny),Coarse,Natural Area,0.3,mg/kg,10
+Thorium-228   (in equilibrium with its progeny),Coarse,Agricultural,0.3,mg/kg,10
+Thorium-228   (in equilibrium with its progeny),Coarse,Residential/Parkland,0.3,mg/kg,10
+Thorium-228   (in equilibrium with its progeny),Coarse,Commercial,0.3,mg/kg,10
+Thorium-228   (in equilibrium with its progeny),Coarse,Industrial,0.3,mg/kg,10
+Potassium-40,Fine,Natural Area,17,mg/kg,10
+Potassium-40,Fine,Agricultural,17,mg/kg,10
+Potassium-40,Fine,Residential/Parkland,17,mg/kg,10
+Potassium-40,Fine,Commercial,17,mg/kg,10
+Potassium-40,Fine,Industrial,17,mg/kg,10
+Potassium-40,Coarse,Natural Area,17,mg/kg,10
+Potassium-40,Coarse,Agricultural,17,mg/kg,10
+Potassium-40,Coarse,Residential/Parkland,17,mg/kg,10
+Potassium-40,Coarse,Commercial,17,mg/kg,10
+Potassium-40,Coarse,Industrial,17,mg/kg,10

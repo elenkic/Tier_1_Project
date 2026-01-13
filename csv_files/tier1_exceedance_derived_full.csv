@@ -1,0 +1,209 @@
+sample_id,sample_name,parameter,soil_type,land_use,concentration_value,guideline_value,exceedance_ratio,exceedance_type
+1,BH26-01,benzene,coarse,industrial,7.38,0.078,94.62,above_max
+2,BH26-02,benzene,fine,industrial,41.53,0.046,902.83,above_max
+3,BH26-03,cadmium,coarse,agricultural,13.74,1.4,9.81,above_max
+3,BH26-03,benzene,coarse,agricultural,42.84,0.073,586.85,above_max
+4,BH26-04,cadmium,coarse,industrial,24.42,22.0,1.11,above_max
+4,BH26-04,benzene,coarse,industrial,9.09,0.078,116.54,above_max
+5,BH26-05,cadmium,coarse,agricultural,37.45,1.4,26.75,above_max
+5,BH26-05,benzene,fine,agricultural,8.4,0.046,182.61,above_max
+6,BH26-06,cadmium,fine,natural area,19.84,3.8,5.22,above_max
+6,BH26-06,benzene,fine,natural area,42.48,0.046,923.48,above_max
+7,BH26-07,cadmium,coarse,natural area,23.25,3.8,6.12,above_max
+7,BH26-07,benzene,coarse,natural area,17.02,0.078,218.21,above_max
+8,BH26-08,cadmium,fine,agricultural,32.3,1.4,23.07,above_max
+8,BH26-08,benzene,fine,agricultural,15.78,0.046,343.04,above_max
+9,BH26-09,cadmium,fine,agricultural,11.38,1.4,8.13,above_max
+9,BH26-09,benzene,fine,agricultural,12.63,0.046,274.57,above_max
+10,BH26-10,cadmium,coarse,natural area,4.27,3.8,1.12,above_max
+10,BH26-10,benzene,fine,natural area,13.24,0.046,287.83,above_max
+11,BH26-11,cadmium,fine,agricultural,35.15,1.4,25.11,above_max
+11,BH26-11,benzene,coarse,agricultural,34.99,0.073,479.32,above_max
+12,BH26-12,cadmium,coarse,industrial,49.98,22.0,2.27,above_max
+12,BH26-12,benzene,coarse,industrial,16.5,0.078,211.54,above_max
+13,BH26-13,cadmium,coarse,agricultural,32.89,1.4,23.49,above_max
+13,BH26-13,benzene,fine,agricultural,35.49,0.046,771.52,above_max
+14,BH26-14,cadmium,coarse,agricultural,20.78,1.4,14.84,above_max
+14,BH26-14,benzene,coarse,agricultural,41.88,0.073,573.7,above_max
+15,BH26-15,cadmium,coarse,natural area,49.04,3.8,12.91,above_max
+15,BH26-15,benzene,fine,natural area,4.99,0.046,108.48,above_max
+16,BH26-16,cadmium,coarse,industrial,42.59,22.0,1.94,above_max
+16,BH26-16,benzene,fine,industrial,22.19,0.046,482.39,above_max
+17,BH26-17,benzene,coarse,industrial,31.95,0.078,409.62,above_max
+18,BH26-18,benzene,fine,agricultural,31.42,0.046,683.04,above_max
+19,BH26-19,cadmium,coarse,natural area,6.62,3.8,1.74,above_max
+19,BH26-19,benzene,coarse,natural area,48.36,0.078,620.0,above_max
+20,BH26-20,cadmium,fine,natural area,5.43,3.8,1.43,above_max
+20,BH26-20,benzene,fine,natural area,5.81,0.046,126.3,above_max
+21,BH26-21,cadmium,coarse,agricultural,46.95,1.4,33.54,above_max
+21,BH26-21,benzene,fine,agricultural,33.14,0.046,720.43,above_max
+22,BH26-22,benzene,fine,industrial,37.09,0.046,806.3,above_max
+23,BH26-23,cadmium,fine,industrial,22.91,22.0,1.04,above_max
+23,BH26-23,benzene,fine,industrial,22.69,0.046,493.26,above_max
+24,BH26-24,cadmium,coarse,industrial,36.48,22.0,1.66,above_max
+24,BH26-24,benzene,coarse,industrial,33.5,0.078,429.49,above_max
+25,BH26-25,cadmium,fine,agricultural,17.51,1.4,12.51,above_max
+25,BH26-25,benzene,coarse,agricultural,43.49,0.073,595.75,above_max
+26,BH26-26,cadmium,fine,natural area,15.59,3.8,4.1,above_max
+26,BH26-26,benzene,fine,natural area,26.35,0.046,572.83,above_max
+27,BH26-27,benzene,fine,natural area,35.48,0.046,771.3,above_max
+28,BH26-28,benzene,fine,industrial,8.68,0.046,188.7,above_max
+29,BH26-29,cadmium,fine,industrial,43.21,22.0,1.96,above_max
+29,BH26-29,benzene,coarse,industrial,30.75,0.078,394.23,above_max
+30,BH26-30,cadmium,coarse,industrial,47.89,22.0,2.18,above_max
+30,BH26-30,benzene,fine,industrial,39.46,0.046,857.83,above_max
+31,BH26-31,cadmium,coarse,agricultural,45.84,1.4,32.74,above_max
+31,BH26-31,benzene,fine,agricultural,17.09,0.046,371.52,above_max
+32,BH26-32,cadmium,fine,agricultural,29.87,1.4,21.34,above_max
+32,BH26-32,benzene,coarse,agricultural,45.2,0.073,619.18,above_max
+33,BH26-33,cadmium,coarse,industrial,43.65,22.0,1.98,above_max
+33,BH26-33,benzene,coarse,industrial,44.23,0.078,567.05,above_max
+34,BH26-34,cadmium,coarse,industrial,39.57,22.0,1.8,above_max
+34,BH26-34,benzene,coarse,industrial,6.1,0.078,78.21,above_max
+35,BH26-35,cadmium,coarse,natural area,30.74,3.8,8.09,above_max
+35,BH26-35,nickel,fine,natural area,49.05,45.0,1.09,above_max
+35,BH26-35,benzene,coarse,natural area,36.65,0.078,469.87,above_max
+36,BH26-36,cadmium,coarse,industrial,40.58,22.0,1.84,above_max
+36,BH26-36,benzene,fine,industrial,43.29,0.046,941.09,above_max
+37,BH26-37,cadmium,coarse,natural area,18.37,3.8,4.83,above_max
+37,BH26-37,benzene,coarse,natural area,17.58,0.078,225.38,above_max
+38,BH26-38,cadmium,coarse,natural area,47.64,3.8,12.54,above_max
+38,BH26-38,benzene,fine,natural area,12.49,0.046,271.52,above_max
+39,BH26-39,cadmium,fine,natural area,10.02,3.8,2.64,above_max
+39,BH26-39,benzene,fine,natural area,49.26,0.046,1070.87,above_max
+40,BH26-40,cadmium,coarse,natural area,19.91,3.8,5.24,above_max
+40,BH26-40,benzene,coarse,natural area,41.57,0.078,532.95,above_max
+41,BH26-41,cadmium,fine,natural area,6.27,3.8,1.65,above_max
+41,BH26-41,benzene,coarse,natural area,30.91,0.078,396.28,above_max
+42,BH26-42,cadmium,fine,natural area,21.99,3.8,5.79,above_max
+42,BH26-42,benzene,coarse,natural area,14.52,0.078,186.15,above_max
+43,BH26-43,cadmium,fine,industrial,24.94,22.0,1.13,above_max
+43,BH26-43,benzene,coarse,industrial,38.2,0.078,489.74,above_max
+44,BH26-44,cadmium,coarse,agricultural,6.44,1.4,4.6,above_max
+44,BH26-44,benzene,fine,agricultural,16.41,0.046,356.74,above_max
+45,BH26-45,cadmium,coarse,natural area,18.42,3.8,4.85,above_max
+45,BH26-45,benzene,fine,natural area,28.63,0.046,622.39,above_max
+46,BH26-46,cadmium,coarse,natural area,35.29,3.8,9.29,above_max
+46,BH26-46,benzene,coarse,natural area,38.56,0.078,494.36,above_max
+47,BH26-47,cadmium,coarse,natural area,47.73,3.8,12.56,above_max
+47,BH26-47,nickel,fine,natural area,46.65,45.0,1.04,above_max
+47,BH26-47,benzene,fine,natural area,12.13,0.046,263.7,above_max
+48,BH26-48,cadmium,coarse,natural area,20.35,3.8,5.36,above_max
+48,BH26-48,nickel,fine,natural area,45.66,45.0,1.01,above_max
+48,BH26-48,benzene,coarse,natural area,39.4,0.078,505.13,above_max
+49,BH26-49,cadmium,coarse,natural area,44.46,3.8,11.7,above_max
+49,BH26-49,benzene,fine,natural area,41.35,0.046,898.91,above_max
+50,BH26-50,cadmium,fine,industrial,47.7,22.0,2.17,above_max
+50,BH26-50,benzene,coarse,industrial,23.91,0.078,306.54,above_max
+51,BH26-51,cadmium,coarse,natural area,26.28,3.8,6.92,above_max
+51,BH26-51,benzene,coarse,natural area,40.44,0.078,518.46,above_max
+52,BH26-52,cadmium,coarse,agricultural,28.92,1.4,20.66,above_max
+52,BH26-52,benzene,coarse,agricultural,43.48,0.073,595.62,above_max
+53,BH26-53,cadmium,fine,industrial,36.4,22.0,1.65,above_max
+53,BH26-53,benzene,fine,industrial,12.04,0.046,261.74,above_max
+54,BH26-54,cadmium,fine,agricultural,7.02,1.4,5.01,above_max
+54,BH26-54,benzene,coarse,agricultural,2.35,0.073,32.19,above_max
+55,BH26-55,cadmium,coarse,natural area,15.04,3.8,3.96,above_max
+55,BH26-55,nickel,fine,natural area,46.11,45.0,1.02,above_max
+55,BH26-55,benzene,fine,natural area,13.43,0.046,291.96,above_max
+56,BH26-56,cadmium,fine,agricultural,46.86,1.4,33.47,above_max
+56,BH26-56,benzene,coarse,agricultural,23.31,0.073,319.32,above_max
+57,BH26-57,cadmium,fine,agricultural,14.77,1.4,10.55,above_max
+57,BH26-57,benzene,fine,agricultural,9.21,0.046,200.22,above_max
+58,BH26-58,benzene,fine,natural area,45.9,0.046,997.83,above_max
+59,BH26-59,cadmium,fine,natural area,49.51,3.8,13.03,above_max
+59,BH26-59,benzene,fine,natural area,44.74,0.046,972.61,above_max
+60,BH26-60,cadmium,fine,agricultural,8.98,1.4,6.41,above_max
+60,BH26-60,benzene,fine,agricultural,4.89,0.046,106.3,above_max
+61,BH26-61,cadmium,coarse,natural area,17.8,3.8,4.68,above_max
+61,BH26-61,benzene,coarse,natural area,4.59,0.078,58.85,above_max
+62,BH26-62,cadmium,coarse,agricultural,29.85,1.4,21.32,above_max
+62,BH26-62,benzene,fine,agricultural,13.81,0.046,300.22,above_max
+63,BH26-63,cadmium,coarse,agricultural,16.62,1.4,11.87,above_max
+63,BH26-63,nickel,coarse,agricultural,48.44,45.0,1.08,above_max
+63,BH26-63,benzene,coarse,agricultural,18.81,0.073,257.67,above_max
+64,BH26-64,benzene,coarse,industrial,27.19,0.078,348.59,above_max
+65,BH26-65,cadmium,coarse,natural area,48.34,3.8,12.72,above_max
+65,BH26-65,benzene,fine,natural area,5.81,0.046,126.3,above_max
+66,BH26-66,benzene,fine,natural area,32.03,0.046,696.3,above_max
+67,BH26-67,cadmium,fine,agricultural,28.87,1.4,20.62,above_max
+67,BH26-67,benzene,fine,agricultural,45.93,0.046,998.48,above_max
+68,BH26-68,cadmium,fine,natural area,21.16,3.8,5.57,above_max
+68,BH26-68,benzene,fine,natural area,24.44,0.046,531.3,above_max
+69,BH26-69,cadmium,fine,natural area,27.49,3.8,7.23,above_max
+69,BH26-69,benzene,fine,natural area,13.15,0.046,285.87,above_max
+70,BH26-70,cadmium,fine,agricultural,8.31,1.4,5.94,above_max
+70,BH26-70,benzene,fine,agricultural,45.94,0.046,998.7,above_max
+71,BH26-71,cadmium,fine,industrial,31.39,22.0,1.43,above_max
+71,BH26-71,benzene,coarse,industrial,42.51,0.078,545.0,above_max
+72,BH26-72,cadmium,fine,industrial,39.42,22.0,1.79,above_max
+72,BH26-72,benzene,fine,industrial,4.68,0.046,101.74,above_max
+73,BH26-73,benzene,coarse,natural area,18.38,0.078,235.64,above_max
+74,BH26-74,cadmium,fine,agricultural,22.01,1.4,15.72,above_max
+74,BH26-74,benzene,coarse,agricultural,27.67,0.073,379.04,above_max
+75,BH26-75,cadmium,fine,agricultural,39.19,1.4,27.99,above_max
+75,BH26-75,benzene,fine,agricultural,47.72,0.046,1037.39,above_max
+76,BH26-76,cadmium,fine,agricultural,21.18,1.4,15.13,above_max
+76,BH26-76,benzene,fine,agricultural,5.81,0.046,126.3,above_max
+77,BH26-77,cadmium,coarse,natural area,8.36,3.8,2.2,above_max
+77,BH26-77,benzene,fine,natural area,7.87,0.046,171.09,above_max
+78,BH26-78,cadmium,fine,agricultural,8.96,1.4,6.4,above_max
+78,BH26-78,benzene,coarse,agricultural,47.7,0.073,653.42,above_max
+79,BH26-79,cadmium,coarse,agricultural,36.98,1.4,26.41,above_max
+79,BH26-79,benzene,fine,agricultural,42.45,0.046,922.83,above_max
+80,BH26-80,cadmium,coarse,industrial,44.87,22.0,2.04,above_max
+80,BH26-80,benzene,coarse,industrial,35.04,0.078,449.23,above_max
+81,BH26-81,cadmium,coarse,natural area,15.71,3.8,4.13,above_max
+81,BH26-81,benzene,coarse,natural area,19.82,0.078,254.1,above_max
+82,BH26-82,cadmium,fine,natural area,6.08,3.8,1.6,above_max
+82,BH26-82,benzene,fine,natural area,6.14,0.046,133.48,above_max
+83,BH26-83,cadmium,fine,natural area,13.76,3.8,3.62,above_max
+83,BH26-83,benzene,coarse,natural area,49.47,0.078,634.23,above_max
+84,BH26-84,benzene,fine,natural area,17.75,0.046,385.87,above_max
+85,BH26-85,cadmium,coarse,agricultural,41.84,1.4,29.89,above_max
+85,BH26-85,nickel,fine,agricultural,45.9,45.0,1.02,above_max
+85,BH26-85,benzene,fine,agricultural,2.99,0.046,65.0,above_max
+86,BH26-86,cadmium,coarse,natural area,6.83,3.8,1.8,above_max
+86,BH26-86,benzene,fine,natural area,42.54,0.046,924.78,above_max
+87,BH26-87,cadmium,fine,natural area,17.35,3.8,4.57,above_max
+87,BH26-87,benzene,coarse,natural area,24.66,0.078,316.15,above_max
+88,BH26-88,benzene,coarse,natural area,20.47,0.078,262.44,above_max
+89,BH26-89,benzene,fine,industrial,18.56,0.046,403.48,above_max
+90,BH26-90,benzene,fine,industrial,25.11,0.046,545.87,above_max
+91,BH26-91,cadmium,fine,natural area,3.93,3.8,1.03,above_max
+91,BH26-91,benzene,fine,natural area,5.63,0.046,122.39,above_max
+92,BH26-92,cadmium,fine,natural area,28.61,3.8,7.53,above_max
+92,BH26-92,nickel,fine,natural area,46.04,45.0,1.02,above_max
+92,BH26-92,benzene,fine,natural area,14.02,0.046,304.78,above_max
+93,BH26-93,benzene,coarse,industrial,41.85,0.078,536.54,above_max
+94,BH26-94,benzene,fine,industrial,13.46,0.046,292.61,above_max
+95,BH26-95,cadmium,coarse,natural area,30.42,3.8,8.01,above_max
+95,BH26-95,benzene,fine,natural area,14.93,0.046,324.57,above_max
+96,BH26-96,cadmium,coarse,natural area,44.99,3.8,11.84,above_max
+96,BH26-96,benzene,coarse,natural area,45.33,0.078,581.15,above_max
+97,BH26-97,cadmium,fine,industrial,47.35,22.0,2.15,above_max
+97,BH26-97,benzene,coarse,industrial,43.38,0.078,556.15,above_max
+98,BH26-98,cadmium,fine,natural area,7.17,3.8,1.89,above_max
+98,BH26-98,benzene,coarse,natural area,20.18,0.078,258.72,above_max
+99,BH26-99,cadmium,coarse,agricultural,11.32,1.4,8.09,above_max
+99,BH26-99,benzene,coarse,agricultural,37.51,0.073,513.84,above_max
+100,BH26-100,cadmium,fine,agricultural,18.77,1.4,13.41,above_max
+100,BH26-100,benzene,coarse,agricultural,31.14,0.073,426.58,above_max
+101,BH26-30-DUP1,cadmium,coarse,agricultural,41.58,1.4,29.7,above_max
+101,BH26-30-DUP1,nickel,coarse,agricultural,45.34,45.0,1.01,above_max
+101,BH26-30-DUP1,benzene,coarse,agricultural,36.18,0.073,495.62,above_max
+102,BH26-29-DUP2,cadmium,fine,natural area,40.08,3.8,10.55,above_max
+102,BH26-29-DUP2,benzene,coarse,natural area,13.6,0.078,174.36,above_max
+103,BH26-04-DUP3,benzene,coarse,industrial,48.89,0.078,626.79,above_max
+104,BH26-85-DUP4,benzene,coarse,industrial,3.95,0.078,50.64,above_max
+105,BH26-25-DUP5,cadmium,coarse,agricultural,41.3,1.4,29.5,above_max
+105,BH26-25-DUP5,benzene,fine,agricultural,5.71,0.046,124.13,above_max
+106,BH26-52-DUP6,cadmium,coarse,industrial,41.09,22.0,1.87,above_max
+106,BH26-52-DUP6,benzene,fine,industrial,48.19,0.046,1047.61,above_max
+107,BH26-43-DUP7,cadmium,coarse,natural area,5.19,3.8,1.37,above_max
+107,BH26-43-DUP7,benzene,fine,natural area,35.6,0.046,773.91,above_max
+108,BH26-36-DUP8,cadmium,coarse,agricultural,25.2,1.4,18.0,above_max
+108,BH26-36-DUP8,benzene,coarse,agricultural,2.66,0.073,36.44,above_max
+109,BH26-09-DUP9,benzene,coarse,industrial,10.16,0.078,130.26,above_max
+110,BH26-99-DUP10,cadmium,fine,industrial,22.45,22.0,1.02,above_max
+110,BH26-99-DUP10,benzene,coarse,industrial,38.69,0.078,496.03,above_max

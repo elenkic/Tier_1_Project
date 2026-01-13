@@ -1,0 +1,1 @@
+CREATE DATABASE tier_1;

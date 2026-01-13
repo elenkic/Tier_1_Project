@@ -1,0 +1,114 @@
+sample_id,sample_name,sample_type,original_sample_id,depth_m,location,land_use,collection_date
+1,BH26-01,regular,,3.38,Loc-1,Industrial,2025-04-23 07:45:27
+2,BH26-02,regular,,1.5,Loc-4,Industrial,2025-10-10 06:45:00
+3,BH26-03,regular,,2.95,Loc-19,Agricultural,2025-01-24 12:55:01
+4,BH26-04,regular,,0.92,Loc-8,Industrial,2025-08-20 16:11:05
+5,BH26-05,regular,,3.03,Loc-18,Agricultural,2025-04-03 09:33:38
+6,BH26-06,regular,,3.15,Loc-1,Natural Area,2025-09-24 18:12:06
+7,BH26-07,regular,,2.03,Loc-5,Natural Area,2025-12-28 07:41:14
+8,BH26-08,regular,,2.01,Loc-3,Agricultural,2025-02-17 05:44:10
+9,BH26-09,regular,,4.31,Loc-20,Agricultural,2025-11-03 12:56:39
+10,BH26-10,regular,,3.78,Loc-18,Natural Area,2026-01-03 02:59:41
+11,BH26-11,regular,,2.2,Loc-18,Agricultural,2025-11-11 16:05:08
+12,BH26-12,regular,,3.28,Loc-12,Industrial,2025-03-24 02:56:55
+13,BH26-13,regular,,0.81,Loc-8,Agricultural,2026-01-07 13:02:28
+14,BH26-14,regular,,4.35,Loc-4,Agricultural,2025-04-24 09:32:58
+15,BH26-15,regular,,3.36,Loc-12,Natural Area,2025-05-28 01:17:09
+16,BH26-16,regular,,1.44,Loc-9,Industrial,2025-12-20 19:35:41
+17,BH26-17,regular,,3.42,Loc-20,Industrial,2025-03-16 09:40:31
+18,BH26-18,regular,,3.78,Loc-6,Agricultural,2025-05-31 10:31:49
+19,BH26-19,regular,,4.95,Loc-18,Natural Area,2025-09-19 19:43:17
+20,BH26-20,regular,,4.29,Loc-2,Natural Area,2025-11-08 21:29:29
+21,BH26-21,regular,,4.12,Loc-13,Agricultural,2025-02-06 02:18:46
+22,BH26-22,regular,,4.61,Loc-19,Industrial,2025-05-07 19:04:44
+23,BH26-23,regular,,3.45,Loc-13,Industrial,2025-06-29 10:02:34
+24,BH26-24,regular,,1.69,Loc-8,Industrial,2025-08-05 20:05:08
+25,BH26-25,regular,,1.68,Loc-19,Agricultural,2025-12-06 15:25:45
+26,BH26-26,regular,,2.3,Loc-8,Natural Area,2025-07-17 21:57:03
+27,BH26-27,regular,,0.91,Loc-2,Natural Area,2025-03-09 17:23:26
+28,BH26-28,regular,,1.22,Loc-14,Industrial,2025-02-05 03:00:12
+29,BH26-29,regular,,2.22,Loc-15,Industrial,2025-04-14 16:53:18
+30,BH26-30,regular,,2.99,Loc-1,Industrial,2025-10-03 00:01:26
+31,BH26-31,regular,,3.57,Loc-18,Agricultural,2025-10-20 11:25:32
+32,BH26-32,regular,,2.03,Loc-10,Agricultural,2025-03-11 15:57:45
+33,BH26-33,regular,,0.51,Loc-9,Industrial,2025-10-18 01:17:22
+34,BH26-34,regular,,2.78,Loc-4,Industrial,2025-05-01 20:52:37
+35,BH26-35,regular,,3.38,Loc-20,Natural Area,2025-03-09 17:22:21
+36,BH26-36,regular,,3.93,Loc-18,Industrial,2025-12-14 04:30:13
+37,BH26-37,regular,,3.2,Loc-16,Natural Area,2025-02-22 18:27:43
+38,BH26-38,regular,,2.13,Loc-10,Natural Area,2025-02-03 01:55:30
+39,BH26-39,regular,,4.45,Loc-3,Natural Area,2025-10-07 02:00:40
+40,BH26-40,regular,,4.17,Loc-18,Natural Area,2025-02-28 19:12:36
+41,BH26-41,regular,,2.64,Loc-18,Natural Area,2025-04-19 16:23:48
+42,BH26-42,regular,,4.43,Loc-14,Natural Area,2025-12-17 23:46:58
+43,BH26-43,regular,,3.9,Loc-7,Industrial,2025-05-06 17:08:07
+44,BH26-44,regular,,4.98,Loc-12,Agricultural,2025-12-07 07:07:12
+45,BH26-45,regular,,2.53,Loc-8,Natural Area,2025-02-05 07:22:03
+46,BH26-46,regular,,0.59,Loc-18,Natural Area,2025-08-15 17:14:10
+47,BH26-47,regular,,0.53,Loc-2,Natural Area,2025-02-06 12:55:39
+48,BH26-48,regular,,0.64,Loc-11,Natural Area,2025-07-19 14:30:30
+49,BH26-49,regular,,1.75,Loc-16,Natural Area,2025-07-28 18:11:24
+50,BH26-50,regular,,3.76,Loc-19,Industrial,2025-07-04 11:05:56
+51,BH26-51,regular,,4.03,Loc-14,Natural Area,2025-02-16 08:47:41
+52,BH26-52,regular,,3.47,Loc-12,Agricultural,2025-06-11 23:45:24
+53,BH26-53,regular,,4.39,Loc-2,Industrial,2025-09-08 10:46:15
+54,BH26-54,regular,,3.41,Loc-2,Agricultural,2025-10-05 17:39:06
+55,BH26-55,regular,,4.1,Loc-4,Natural Area,2025-03-23 20:49:47
+56,BH26-56,regular,,2.91,Loc-5,Agricultural,2025-03-20 21:51:21
+57,BH26-57,regular,,2.58,Loc-3,Agricultural,2025-11-03 20:46:32
+58,BH26-58,regular,,4.35,Loc-4,Natural Area,2025-09-07 23:17:24
+59,BH26-59,regular,,2.93,Loc-1,Natural Area,2025-12-17 01:28:31
+60,BH26-60,regular,,4.32,Loc-6,Agricultural,2025-07-09 04:43:01
+61,BH26-61,regular,,1.46,Loc-13,Natural Area,2025-03-14 00:43:19
+62,BH26-62,regular,,0.51,Loc-13,Agricultural,2025-12-17 02:47:56
+63,BH26-63,regular,,4.03,Loc-10,Agricultural,2025-09-24 04:38:32
+64,BH26-64,regular,,3.79,Loc-18,Industrial,2025-10-02 03:45:26
+65,BH26-65,regular,,1.2,Loc-10,Natural Area,2026-01-01 12:23:41
+66,BH26-66,regular,,3.11,Loc-18,Natural Area,2025-10-12 22:46:00
+67,BH26-67,regular,,0.76,Loc-19,Agricultural,2025-07-15 11:28:12
+68,BH26-68,regular,,4.34,Loc-6,Natural Area,2025-12-29 14:55:26
+69,BH26-69,regular,,0.86,Loc-6,Natural Area,2025-08-18 03:00:29
+70,BH26-70,regular,,3.54,Loc-8,Agricultural,2025-02-25 16:42:27
+71,BH26-71,regular,,4.51,Loc-8,Industrial,2025-08-17 22:29:18
+72,BH26-72,regular,,3.29,Loc-14,Industrial,2025-08-13 23:28:12
+73,BH26-73,regular,,2.85,Loc-9,Natural Area,2025-09-14 09:18:01
+74,BH26-74,regular,,1.91,Loc-9,Agricultural,2025-03-01 16:59:40
+75,BH26-75,regular,,3.4,Loc-15,Agricultural,2025-12-18 00:42:04
+76,BH26-76,regular,,4.71,Loc-1,Agricultural,2025-08-27 15:51:21
+77,BH26-77,regular,,3.03,Loc-4,Natural Area,2025-07-28 04:10:41
+78,BH26-78,regular,,2.78,Loc-5,Agricultural,2025-11-30 10:52:15
+79,BH26-79,regular,,4.46,Loc-12,Agricultural,2025-03-11 12:21:46
+80,BH26-80,regular,,4.25,Loc-10,Industrial,2026-01-07 01:03:20
+81,BH26-81,regular,,4.13,Loc-17,Natural Area,2025-09-13 16:58:56
+82,BH26-82,regular,,3.0,Loc-4,Natural Area,2025-04-19 11:13:20
+83,BH26-83,regular,,4.5,Loc-18,Natural Area,2025-04-22 08:16:16
+84,BH26-84,regular,,3.22,Loc-11,Natural Area,2025-09-20 20:58:32
+85,BH26-85,regular,,4.34,Loc-17,Agricultural,2025-04-14 14:19:22
+86,BH26-86,regular,,4.59,Loc-2,Natural Area,2025-09-01 10:49:57
+87,BH26-87,regular,,4.23,Loc-2,Natural Area,2025-05-14 16:27:21
+88,BH26-88,regular,,1.09,Loc-9,Natural Area,2025-10-10 11:41:00
+89,BH26-89,regular,,2.98,Loc-14,Industrial,2025-01-16 11:12:26
+90,BH26-90,regular,,0.84,Loc-5,Industrial,2025-01-26 02:06:26
+91,BH26-91,regular,,2.16,Loc-18,Natural Area,2025-06-18 19:25:56
+92,BH26-92,regular,,0.69,Loc-12,Natural Area,2025-12-07 01:04:50
+93,BH26-93,regular,,1.45,Loc-8,Industrial,2025-02-19 10:58:22
+94,BH26-94,regular,,4.01,Loc-14,Industrial,2025-10-13 11:55:28
+95,BH26-95,regular,,4.67,Loc-8,Natural Area,2026-01-04 06:03:56
+96,BH26-96,regular,,4.15,Loc-14,Natural Area,2025-03-19 09:42:00
+97,BH26-97,regular,,4.66,Loc-14,Industrial,2025-11-24 07:42:05
+98,BH26-98,regular,,4.15,Loc-9,Natural Area,2025-10-27 07:54:05
+99,BH26-99,regular,,0.99,Loc-2,Agricultural,2025-04-04 03:01:12
+100,BH26-100,regular,,4.17,Loc-15,Agricultural,2025-05-04 07:58:21
+101,BH26-30-DUP1,duplicate,30,1.76,Loc-17,Agricultural,2025-09-17 23:04:46
+102,BH26-29-DUP2,duplicate,29,4.3,Loc-11,Natural Area,2025-02-24 00:53:40
+103,BH26-04-DUP3,duplicate,4,4.87,Loc-6,Industrial,2025-12-30 06:18:04
+104,BH26-85-DUP4,duplicate,85,1.69,Loc-4,Industrial,2025-06-20 13:16:45
+105,BH26-25-DUP5,duplicate,25,3.78,Loc-11,Agricultural,2025-08-22 04:53:25
+106,BH26-52-DUP6,duplicate,52,2.8,Loc-13,Industrial,2025-03-23 07:35:27
+107,BH26-43-DUP7,duplicate,43,0.7,Loc-14,Natural Area,2025-07-21 17:00:10
+108,BH26-36-DUP8,duplicate,36,4.13,Loc-7,Agricultural,2025-06-19 08:39:57
+109,BH26-09-DUP9,duplicate,9,4.77,Loc-11,Industrial,2025-05-07 12:24:06
+110,BH26-99-DUP10,duplicate,99,4.32,Loc-10,Industrial,2025-05-05 19:50:03
+111,FIELD_BLANK,field blank,,,,,2025-06-11 00:01:21
+112,TRIP_BLANK,trip blank,,,,,2025-06-08 19:31:41
+113,EQUIPMENT_BLANK,equipment blank,,,,,2025-04-30 20:26:25
