@@ -25,7 +25,7 @@ CREATE TABLE public.samples (
     collection_date TIMESTAMP
 );
 
--- Create results table with a composite primary key and foreign keys
+-- Create results table with a primary key and foreign keys
 
 CREATE TABLE public.results (
     result_id INT,
